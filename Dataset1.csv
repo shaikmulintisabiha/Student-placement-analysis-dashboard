@@ -1,0 +1,1201 @@
+Student_ID,Student_Name,Gender,Branch,CGPA,Skills,Placement_Status,Company_Name,Package_LPA,Placement_Year
+S0001,Student_1,Male,Civil,8.54,"Communication, Java, Python",Placed,Capgemini,8.33,2025
+S0002,Student_2,Female,Civil,6.11,"Java, SQL, Excel",Placed,Wipro,6.06,2025
+S0003,Student_3,Male,EEE,7.07,"Python, Java, Excel",Not Placed,Not selected,0,2023
+S0004,Student_4,Female,CSE,8.74,"Data Analysis, C++, Excel",Placed,Wipro,8.51,2025
+S0005,Student_5,Female,IT,7.98,"Python, Power BI, Excel",Placed,Tech Mahindra,6.62,2023
+S0006,Student_6,Female,Mech,9.59,"Excel, Communication, Java",Placed,Wipro,7.31,2025
+S0007,Student_7,Female,IT,8.54,"Excel, Java, Machine Learning",Placed,Accenture,11.14,2024
+S0008,Student_8,Male,EEE,9.35,"Python, C++, SQL",Placed,Deloitte,11.19,2023
+S0009,Student_9,Female,Mech,5.61,"Data Analysis, Machine Learning, SQL",Not Placed,Not selected,0,2023
+S0010,Student_10,Male,CSE,8.52,"SQL, Machine Learning, Power BI",Placed,Cognizant,3.97,2023
+S0011,Student_11,Female,ECE,7.73,"C++, Communication, Power BI",Placed,TCS,11.17,2023
+S0012,Student_12,Female,Civil,5.93,"Python, Java, Data Analysis",Not Placed,Not selected,0,2023
+S0013,Student_13,Male,EEE,8.88,"Data Analysis, Communication, C++",Not Placed,Not selected,0,2023
+S0014,Student_14,Female,ECE,8.51,"Python, Communication, Machine Learning",Placed,Capgemini,4.92,2025
+S0015,Student_15,Female,CSE,6.19,"Communication, Data Analysis, SQL",Not Placed,Not selected,0,2023
+S0016,Student_16,Female,EEE,7.7,"Python, Excel, Machine Learning",Placed,TCS,8.6,2025
+S0017,Student_17,Male,Mech,7.57,"Power BI, Python, Data Analysis",Not Placed,Not selected,0,2024
+S0018,Student_18,Female,EEE,9.66,"Data Analysis, Java, SQL",Placed,Accenture,8,2025
+S0019,Student_19,Male,Civil,5.73,"Python, Machine Learning, Communication",Placed,Deloitte,7.78,2024
+S0020,Student_20,Male,Civil,9.55,"Power BI, Data Analysis, Python",Placed,TCS,5.61,2025
+S0021,Student_21,Female,Civil,9.27,"Data Analysis, SQL, C++",Placed,Cognizant,11.06,2025
+S0022,Student_22,Female,EEE,7.37,"C++, Power BI, SQL",Placed,Cognizant,10.45,2025
+S0023,Student_23,Male,CSE,9.44,"C++, Data Analysis, Power BI",Not Placed,Not selected,0,2024
+S0024,Student_24,Male,CSE,7.43,"Communication, Power BI, Python",Placed,HCL,11.94,2023
+S0025,Student_25,Male,ECE,6.86,"Python, SQL, Communication",Placed,Capgemini,10.59,2025
+S0026,Student_26,Female,ECE,7.45,"Python, Excel, C++",Not Placed,Not selected,0,2025
+S0027,Student_27,Male,ECE,9.66,"C++, Machine Learning, Data Analysis",Placed,Deloitte,10.91,2025
+S0028,Student_28,Female,Civil,9.78,"Machine Learning, SQL, Excel",Placed,Accenture,9.42,2025
+S0029,Student_29,Female,Civil,6.03,"SQL, Power BI, Machine Learning",Placed,Wipro,4.85,2023
+S0030,Student_30,Male,EEE,5.61,"Excel, C++, Machine Learning",Placed,Deloitte,7.76,2023
+S0031,Student_31,Female,Mech,9.6,"Power BI, Machine Learning, Excel",Not Placed,Not selected,0,2023
+S0032,Student_32,Female,IT,6.69,"Python, Java, Excel",Not Placed,Not selected,0,2025
+S0033,Student_33,Female,CSE,6.32,"Python, SQL, Power BI",Not Placed,Not selected,0,2025
+S0034,Student_34,Male,CSE,9.5,"Java, Python, Machine Learning",Not Placed,Not selected,0,2023
+S0035,Student_35,Male,EEE,8.76,"Power BI, Data Analysis, SQL",Placed,TCS,6.65,2024
+S0036,Student_36,Male,CSE,8.83,"Java, Python, C++",Placed,Tech Mahindra,4.99,2024
+S0037,Student_37,Male,EEE,9.46,"Power BI, Machine Learning, Data Analysis",Placed,Cognizant,11.97,2023
+S0038,Student_38,Female,CSE,8.82,"Data Analysis, Power BI, Python",Not Placed,Not selected,0,2024
+S0039,Student_39,Female,Civil,8.3,"Power BI, SQL, Java",Placed,Capgemini,4.27,2023
+S0040,Student_40,Female,EEE,6.72,"SQL, Java, Power BI",Placed,Accenture,9.54,2024
+S0041,Student_41,Female,Mech,5.94,"Excel, SQL, Machine Learning",Not Placed,Not selected,0,2025
+S0042,Student_42,Female,CSE,6.52,"Machine Learning, Power BI, Python",Placed,Capgemini,5.86,2023
+S0043,Student_43,Female,IT,8.33,"Machine Learning, Power BI, Python",Placed,Cognizant,3.69,2025
+S0044,Student_44,Male,IT,9.09,"SQL, Data Analysis, Java",Not Placed,Not selected,0,2025
+S0045,Student_45,Male,Mech,7.45,"SQL, Java, Power BI",Not Placed,Not selected,0,2024
+S0046,Student_46,Male,IT,7.8,"Power BI, Java, C++",Placed,HCL,10.2,2025
+S0047,Student_47,Male,EEE,6.1,"SQL, Excel, C++",Placed,Wipro,5.38,2025
+S0048,Student_48,Female,IT,6.46,"Python, Java, C++",Not Placed,Not selected,0,2023
+S0049,Student_49,Male,IT,6.19,"Excel, SQL, Java",Not Placed,Not selected,0,2023
+S0050,Student_50,Male,CSE,9.37,"Data Analysis, Machine Learning, SQL",Placed,Infosys,6.98,2024
+S0051,Student_51,Male,EEE,7.54,"Excel, Java, Communication",Placed,Infosys,5.02,2024
+S0052,Student_52,Male,Mech,6.72,"Communication, Java, Python",Not Placed,Not selected,0,2024
+S0053,Student_53,Male,Mech,7.09,"Python, Communication, Machine Learning",Placed,Accenture,6.56,2024
+S0054,Student_54,Female,IT,6.95,"Java, Excel, Machine Learning",Not Placed,Not selected,0,2025
+S0055,Student_55,Female,CSE,8.5,"Data Analysis, Machine Learning, SQL",Not Placed,Not selected,0,2024
+S0056,Student_56,Female,CSE,8.29,"SQL, C++, Data Analysis",Placed,Capgemini,4.89,2025
+S0057,Student_57,Male,EEE,6.45,"SQL, Communication, Java",Placed,Wipro,10.58,2023
+S0058,Student_58,Male,Mech,6.24,"Data Analysis, Excel, Communication",Placed,Cognizant,8.5,2024
+S0059,Student_59,Male,IT,6.46,"Data Analysis, Java, Power BI",Not Placed,Not selected,0,2023
+S0060,Student_60,Female,IT,6.46,"Python, Java, Excel",Not Placed,Not selected,0,2023
+S0061,Student_61,Male,Mech,6.5,"Communication, SQL, Java",Placed,Tech Mahindra,10.53,2024
+S0062,Student_62,Male,ECE,6.89,"Power BI, Java, Excel",Placed,HCL,3.16,2023
+S0063,Student_63,Female,IT,8.24,"Machine Learning, Communication, Data Analysis",Placed,Wipro,7.16,2023
+S0064,Student_64,Female,ECE,6.31,"Communication, Data Analysis, Python",Placed,Tech Mahindra,7.15,2023
+S0065,Student_65,Female,ECE,6.53,"Machine Learning, Data Analysis, Java",Placed,TCS,8.23,2023
+S0066,Student_66,Female,ECE,9,"Excel, Data Analysis, Communication",Placed,Tech Mahindra,10.07,2024
+S0067,Student_67,Female,Mech,8.62,"Excel, Communication, C++",Placed,TCS,11.47,2024
+S0068,Student_68,Male,CSE,8.8,"Machine Learning, Excel, Power BI",Not Placed,Not selected,0,2024
+S0069,Student_69,Female,ECE,6.37,"Communication, Java, Power BI",Placed,Deloitte,7.74,2023
+S0070,Student_70,Male,IT,5.56,"Machine Learning, Data Analysis, Power BI",Placed,Tech Mahindra,8.9,2024
+S0071,Student_71,Male,Civil,5.52,"Python, SQL, Communication",Placed,Accenture,3.08,2025
+S0072,Student_72,Female,CSE,6.76,"Power BI, SQL, C++",Placed,TCS,6.97,2024
+S0073,Student_73,Female,IT,6.15,"Communication, Python, C++",Placed,Accenture,9.86,2023
+S0074,Student_74,Female,Civil,9.12,"Python, SQL, Excel",Placed,Cognizant,7.89,2025
+S0075,Student_75,Female,IT,5.84,"Java, SQL, Python",Placed,Accenture,9.27,2023
+S0076,Student_76,Male,CSE,7.65,"C++, Communication, Java",Placed,TCS,9.82,2024
+S0077,Student_77,Female,EEE,7.97,"Communication, SQL, Machine Learning",Placed,Accenture,9.76,2023
+S0078,Student_78,Male,Civil,5.55,"C++, Python, Communication",Placed,Infosys,8.55,2025
+S0079,Student_79,Male,Mech,6.97,"Excel, Power BI, Communication",Not Placed,Not selected,0,2023
+S0080,Student_80,Male,EEE,7.45,"Power BI, SQL, Excel",Placed,IBM,7.5,2023
+S0081,Student_81,Female,Civil,6.02,"Python, Java, Data Analysis",Placed,Wipro,5.94,2025
+S0082,Student_82,Female,Mech,7.29,"Communication, SQL, Python",Placed,TCS,10.47,2023
+S0083,Student_83,Female,CSE,8.91,"Communication, Java, Data Analysis",Placed,Accenture,7.84,2024
+S0084,Student_84,Male,CSE,8.7,"Data Analysis, C++, Python",Placed,Wipro,3.24,2025
+S0085,Student_85,Male,ECE,8.22,"Machine Learning, Excel, Communication",Not Placed,Not selected,0,2025
+S0086,Student_86,Female,EEE,6.97,"Excel, Machine Learning, Communication",Placed,TCS,3.41,2025
+S0087,Student_87,Female,ECE,8.18,"SQL, Communication, Excel",Placed,HCL,7.79,2023
+S0088,Student_88,Female,Civil,9.7,"Communication, Data Analysis, Java",Placed,Deloitte,6.04,2024
+S0089,Student_89,Female,IT,6.36,"SQL, Communication, Excel",Not Placed,Not selected,0,2025
+S0090,Student_90,Female,IT,9.29,"Power BI, Machine Learning, Communication",Not Placed,Not selected,0,2025
+S0091,Student_91,Female,Civil,9.54,"Excel, Machine Learning, Data Analysis",Not Placed,Not selected,0,2025
+S0092,Student_92,Male,CSE,7.31,"Data Analysis, Machine Learning, C++",Not Placed,Not selected,0,2024
+S0093,Student_93,Female,IT,5.81,"Data Analysis, Excel, C++",Placed,Accenture,4.3,2023
+S0094,Student_94,Female,IT,9.71,"Python, Machine Learning, SQL",Placed,Deloitte,8.17,2023
+S0095,Student_95,Female,IT,8.5,"Power BI, Java, Communication",Placed,Accenture,8.66,2024
+S0096,Student_96,Female,ECE,6.72,"Communication, C++, Excel",Not Placed,Not selected,0,2025
+S0097,Student_97,Male,EEE,7.93,"SQL, Communication, Excel",Placed,TCS,7.08,2024
+S0098,Student_98,Female,ECE,7.65,"Communication, Machine Learning, SQL",Placed,IBM,8.61,2024
+S0099,Student_99,Male,CSE,7.34,"C++, Power BI, Data Analysis",Placed,IBM,11.65,2023
+S0100,Student_100,Female,EEE,9.31,"C++, Machine Learning, Python",Placed,Deloitte,8.84,2024
+S0101,Student_101,Male,CSE,9.48,"Power BI, Excel, Communication",Not Placed,Not selected,0,2024
+S0102,Student_102,Female,IT,6.93,"C++, Power BI, Java",Placed,Accenture,3.82,2023
+S0103,Student_103,Male,IT,7.72,"C++, Power BI, Python",Placed,Infosys,7.23,2023
+S0104,Student_104,Female,Civil,5.52,"Java, Power BI, Communication",Placed,Wipro,3.47,2023
+S0105,Student_105,Male,Civil,6.47,"Python, Communication, SQL",Placed,IBM,6.9,2025
+S0106,Student_106,Female,EEE,8.53,"Java, Communication, Excel",Placed,Accenture,8.21,2025
+S0107,Student_107,Male,ECE,6.51,"Data Analysis, C++, Python",Not Placed,Not selected,0,2024
+S0108,Student_108,Female,Civil,6.43,"Java, Machine Learning, Data Analysis",Placed,Deloitte,11.4,2023
+S0109,Student_109,Male,CSE,6.29,"Excel, C++, Java",Placed,Deloitte,3.36,2024
+S0110,Student_110,Male,Mech,8.72,"SQL, Python, Machine Learning",Not Placed,Not selected,0,2023
+S0111,Student_111,Male,EEE,8.77,"Data Analysis, Python, SQL",Placed,IBM,4.12,2023
+S0112,Student_112,Male,ECE,6.33,"Machine Learning, Excel, Power BI",Placed,Deloitte,3.45,2025
+S0113,Student_113,Female,CSE,5.51,"Communication, Excel, Java",Placed,Capgemini,6.09,2024
+S0114,Student_114,Male,ECE,6.56,"Python, Machine Learning, Power BI",Placed,IBM,11.98,2023
+S0115,Student_115,Female,CSE,8.3,"Excel, Communication, Python",Placed,TCS,7.27,2024
+S0116,Student_116,Male,IT,9.09,"Java, Excel, Machine Learning",Not Placed,Not selected,0,2025
+S0117,Student_117,Female,Civil,8.13,"Communication, Power BI, Java",Not Placed,Not selected,0,2025
+S0118,Student_118,Female,IT,6.01,"Python, Power BI, C++",Placed,IBM,8.02,2023
+S0119,Student_119,Female,CSE,8.14,"C++, Excel, Python",Placed,Infosys,4.9,2025
+S0120,Student_120,Female,ECE,6.69,"Power BI, SQL, Excel",Not Placed,Not selected,0,2025
+S0121,Student_121,Female,Civil,6,"Machine Learning, Java, Data Analysis",Placed,Accenture,4.95,2024
+S0122,Student_122,Male,CSE,7.08,"Machine Learning, Python, SQL",Placed,HCL,9.92,2023
+S0123,Student_123,Male,CSE,7.59,"Communication, Java, Data Analysis",Not Placed,Not selected,0,2023
+S0124,Student_124,Male,ECE,7.97,"C++, Python, Excel",Placed,Infosys,3.41,2024
+S0125,Student_125,Male,EEE,8.14,"Power BI, Data Analysis, SQL",Placed,IBM,3.03,2023
+S0126,Student_126,Male,EEE,7.68,"Communication, Python, Machine Learning",Not Placed,Not selected,0,2025
+S0127,Student_127,Female,ECE,6.18,"Communication, Python, Power BI",Placed,Cognizant,3.82,2025
+S0128,Student_128,Female,Mech,7.95,"Power BI, Excel, Data Analysis",Not Placed,Not selected,0,2023
+S0129,Student_129,Male,Civil,5.55,"Machine Learning, Java, Communication",Placed,Infosys,9.24,2024
+S0130,Student_130,Male,IT,7.63,"Data Analysis, Java, C++",Placed,Accenture,8.64,2025
+S0131,Student_131,Male,CSE,8.69,"Power BI, Python, Data Analysis",Placed,Infosys,9.48,2024
+S0132,Student_132,Male,Mech,6.11,"Python, Java, SQL",Placed,Accenture,10.79,2023
+S0133,Student_133,Female,CSE,5.73,"Python, Excel, Power BI",Placed,Deloitte,7.65,2025
+S0134,Student_134,Male,CSE,6.16,"SQL, Machine Learning, C++",Placed,TCS,11.52,2023
+S0135,Student_135,Male,Mech,9.66,"Power BI, Java, Communication",Placed,Tech Mahindra,5.88,2023
+S0136,Student_136,Male,IT,5.87,"Communication, Power BI, C++",Placed,TCS,5.26,2023
+S0137,Student_137,Male,Mech,5.82,"Excel, Machine Learning, Data Analysis",Placed,Accenture,6.64,2023
+S0138,Student_138,Female,IT,6.81,"Java, C++, Python",Placed,IBM,9.53,2024
+S0139,Student_139,Male,CSE,6.32,"Data Analysis, C++, Excel",Placed,Infosys,3.9,2025
+S0140,Student_140,Female,Mech,6.93,"Communication, Data Analysis, SQL",Placed,Wipro,7.83,2024
+S0141,Student_141,Male,EEE,6,"Python, Data Analysis, C++",Placed,IBM,10.43,2023
+S0142,Student_142,Male,ECE,9.6,"Data Analysis, C++, Communication",Placed,TCS,11.59,2025
+S0143,Student_143,Male,CSE,7.11,"Power BI, Java, Machine Learning",Placed,TCS,3.81,2025
+S0144,Student_144,Female,Civil,6.18,"Python, Excel, C++",Placed,Tech Mahindra,8.55,2024
+S0145,Student_145,Male,EEE,6.09,"C++, Power BI, Excel",Placed,Wipro,3.61,2023
+S0146,Student_146,Female,CSE,7.77,"Data Analysis, Python, Excel",Placed,Accenture,5.1,2024
+S0147,Student_147,Female,IT,8.54,"Communication, C++, Excel",Placed,Accenture,5.36,2024
+S0148,Student_148,Female,CSE,5.83,"Communication, Java, Power BI",Not Placed,Not selected,0,2024
+S0149,Student_149,Female,Civil,9.52,"Excel, Communication, Data Analysis",Placed,Deloitte,7.64,2024
+S0150,Student_150,Female,Mech,7.61,"SQL, Java, C++",Placed,Accenture,5.29,2023
+S0151,Student_151,Female,EEE,8.42,"Python, Excel, C++",Placed,Infosys,7.15,2024
+S0152,Student_152,Female,EEE,6.54,"Excel, Machine Learning, Power BI",Not Placed,Not selected,0,2023
+S0153,Student_153,Female,IT,7.2,"Power BI, Machine Learning, Excel",Placed,HCL,11.92,2023
+S0154,Student_154,Female,CSE,9.61,"Communication, Excel, Data Analysis",Placed,Infosys,9.25,2025
+S0155,Student_155,Male,Mech,6.1,"SQL, Power BI, Excel",Not Placed,Not selected,0,2025
+S0156,Student_156,Female,CSE,5.8,"Communication, Data Analysis, Java",Placed,Accenture,7.07,2023
+S0157,Student_157,Female,ECE,6.18,"SQL, Communication, Python",Not Placed,Not selected,0,2023
+S0158,Student_158,Female,EEE,5.91,"Java, C++, Python",Not Placed,Not selected,0,2023
+S0159,Student_159,Female,Civil,8.08,"Java, SQL, Excel",Placed,Accenture,9.29,2023
+S0160,Student_160,Male,Mech,8.2,"Java, Machine Learning, Communication",Not Placed,Not selected,0,2023
+S0161,Student_161,Male,EEE,7.86,"Excel, Java, Machine Learning",Not Placed,Not selected,0,2025
+S0162,Student_162,Female,CSE,5.5,"Python, SQL, Machine Learning",Not Placed,Not selected,0,2025
+S0163,Student_163,Female,IT,7.88,"Communication, Data Analysis, Excel",Placed,Infosys,8.73,2024
+S0164,Student_164,Male,Civil,9.01,"Java, C++, SQL",Placed,Tech Mahindra,10.05,2025
+S0165,Student_165,Male,EEE,8.59,"Excel, C++, Data Analysis",Placed,IBM,3.84,2023
+S0166,Student_166,Male,EEE,7.89,"Python, Power BI, Communication",Placed,IBM,8.33,2024
+S0167,Student_167,Male,EEE,7.8,"Machine Learning, SQL, Java",Placed,Accenture,8.93,2025
+S0168,Student_168,Male,CSE,9.04,"Power BI, C++, Data Analysis",Placed,Cognizant,6.87,2023
+S0169,Student_169,Male,CSE,6.59,"Java, Communication, Power BI",Not Placed,Not selected,0,2025
+S0170,Student_170,Male,Mech,5.54,"C++, Machine Learning, Power BI",Placed,Deloitte,3.87,2025
+S0171,Student_171,Female,IT,8.13,"Python, Power BI, Java",Placed,Cognizant,6.87,2023
+S0172,Student_172,Female,Civil,7.87,"Python, Power BI, SQL",Placed,Deloitte,10.49,2024
+S0173,Student_173,Female,Mech,9.39,"Machine Learning, SQL, Python",Not Placed,Not selected,0,2025
+S0174,Student_174,Female,Mech,9.67,"Data Analysis, Excel, Machine Learning",Placed,Deloitte,8.44,2024
+S0175,Student_175,Male,CSE,8.21,"Power BI, Machine Learning, Java",Placed,Accenture,6.57,2023
+S0176,Student_176,Male,Civil,9.02,"Communication, Excel, Java",Placed,Deloitte,8.6,2025
+S0177,Student_177,Female,ECE,5.67,"C++, Power BI, Communication",Placed,Deloitte,5.61,2024
+S0178,Student_178,Female,Mech,8.86,"Communication, Machine Learning, Power BI",Not Placed,Not selected,0,2023
+S0179,Student_179,Female,IT,6.63,"Java, Excel, SQL",Placed,Accenture,7.92,2024
+S0180,Student_180,Female,Mech,7.93,"Python, Communication, C++",Placed,Capgemini,10.82,2024
+S0181,Student_181,Male,ECE,9.17,"Java, Excel, Python",Not Placed,Not selected,0,2025
+S0182,Student_182,Male,Mech,9,"Communication, C++, Excel",Placed,Deloitte,3.69,2024
+S0183,Student_183,Female,ECE,8.01,"Data Analysis, Excel, Python",Placed,HCL,5.66,2025
+S0184,Student_184,Female,ECE,7.1,"Communication, Data Analysis, Power BI",Placed,Tech Mahindra,6.02,2024
+S0185,Student_185,Female,EEE,9.21,"Machine Learning, C++, Communication",Placed,Capgemini,5.78,2024
+S0186,Student_186,Female,EEE,8.44,"Machine Learning, SQL, Power BI",Not Placed,Not selected,0,2025
+S0187,Student_187,Female,EEE,6.99,"Java, Machine Learning, Excel",Placed,IBM,10.33,2024
+S0188,Student_188,Male,CSE,8.87,"C++, Python, Communication",Placed,TCS,3.01,2025
+S0189,Student_189,Male,IT,9.57,"Excel, Java, Power BI",Placed,HCL,7.85,2023
+S0190,Student_190,Female,Mech,6.95,"Java, Communication, Excel",Not Placed,Not selected,0,2023
+S0191,Student_191,Female,EEE,6.06,"Excel, C++, Data Analysis",Not Placed,Not selected,0,2023
+S0192,Student_192,Male,ECE,9.77,"Communication, Excel, SQL",Placed,Wipro,3.02,2023
+S0193,Student_193,Female,ECE,9.32,"Communication, Machine Learning, C++",Not Placed,Not selected,0,2024
+S0194,Student_194,Female,EEE,5.95,"Java, SQL, Machine Learning",Placed,Deloitte,3.06,2023
+S0195,Student_195,Female,EEE,5.67,"SQL, Data Analysis, Machine Learning",Placed,HCL,5.49,2024
+S0196,Student_196,Male,ECE,6.42,"Data Analysis, Java, Power BI",Placed,Infosys,11.09,2024
+S0197,Student_197,Male,EEE,8.27,"Python, Java, Data Analysis",Placed,IBM,4.44,2023
+S0198,Student_198,Female,Civil,7.39,"Python, Data Analysis, Communication",Not Placed,Not selected,0,2025
+S0199,Student_199,Female,Mech,8.57,"SQL, Machine Learning, Communication",Placed,Deloitte,3.35,2023
+S0200,Student_200,Female,Mech,7.83,"Python, C++, Power BI",Placed,Deloitte,8.01,2023
+S0201,Student_201,Male,Civil,6.91,"Data Analysis, Power BI, Java",Not Placed,Not selected,0,2023
+S0202,Student_202,Male,IT,8.22,"Python, Java, Machine Learning",Not Placed,Not selected,0,2025
+S0203,Student_203,Male,Mech,8.02,"Python, Data Analysis, SQL",Not Placed,Not selected,0,2025
+S0204,Student_204,Female,Civil,5.86,"Python, Java, C++",Not Placed,Not selected,0,2023
+S0205,Student_205,Male,CSE,9.04,"SQL, Communication, Python",Placed,Capgemini,9.37,2023
+S0206,Student_206,Male,Mech,6.89,"Machine Learning, Python, Data Analysis",Not Placed,Not selected,0,2024
+S0207,Student_207,Male,EEE,9.16,"Machine Learning, Excel, Power BI",Placed,Wipro,4.88,2025
+S0208,Student_208,Male,ECE,6.7,"Communication, C++, Machine Learning",Not Placed,Not selected,0,2024
+S0209,Student_209,Female,EEE,9.68,"Python, C++, Java",Placed,Cognizant,5.93,2024
+S0210,Student_210,Female,CSE,8.1,"Power BI, C++, Python",Placed,Tech Mahindra,4.26,2024
+S0211,Student_211,Male,EEE,5.69,"SQL, C++, Excel",Placed,HCL,6.1,2023
+S0212,Student_212,Male,ECE,7.15,"Communication, SQL, Power BI",Not Placed,Not selected,0,2025
+S0213,Student_213,Male,IT,6.08,"Power BI, Excel, SQL",Placed,IBM,3.17,2025
+S0214,Student_214,Female,EEE,7.05,"Java, Excel, C++",Not Placed,Not selected,0,2024
+S0215,Student_215,Female,Civil,8.13,"Data Analysis, Python, Excel",Placed,Capgemini,3.35,2025
+S0216,Student_216,Female,EEE,8.89,"Excel, Power BI, C++",Placed,Infosys,9.61,2024
+S0217,Student_217,Male,CSE,7.54,"Data Analysis, C++, Communication",Placed,Infosys,7.07,2024
+S0218,Student_218,Male,ECE,5.71,"Machine Learning, Excel, C++",Not Placed,Not selected,0,2025
+S0219,Student_219,Male,Civil,8.26,"Communication, C++, Python",Placed,Tech Mahindra,6,2023
+S0220,Student_220,Female,Mech,6.22,"SQL, C++, Data Analysis",Placed,Accenture,11.68,2025
+S0221,Student_221,Male,IT,9.31,"SQL, Communication, Excel",Placed,Capgemini,3.76,2023
+S0222,Student_222,Male,Mech,8.2,"Python, SQL, Power BI",Not Placed,Not selected,0,2023
+S0223,Student_223,Female,EEE,8.24,"Python, SQL, Excel",Placed,HCL,10.63,2025
+S0224,Student_224,Female,ECE,7.44,"Power BI, C++, Python",Placed,Cognizant,9.79,2025
+S0225,Student_225,Male,CSE,8.52,"Communication, Java, Data Analysis",Not Placed,Not selected,0,2024
+S0226,Student_226,Female,CSE,8.74,"SQL, Communication, Python",Placed,HCL,10.46,2024
+S0227,Student_227,Male,EEE,9.63,"Data Analysis, Machine Learning, C++",Placed,TCS,10.1,2025
+S0228,Student_228,Female,Civil,8.53,"Communication, Java, SQL",Not Placed,Not selected,0,2025
+S0229,Student_229,Female,Civil,5.66,"Machine Learning, Java, Excel",Placed,Capgemini,11.24,2023
+S0230,Student_230,Female,EEE,9.78,"Excel, Machine Learning, C++",Not Placed,Not selected,0,2024
+S0231,Student_231,Male,Mech,7.43,"Data Analysis, C++, Machine Learning",Placed,TCS,9.43,2024
+S0232,Student_232,Male,IT,6.95,"Excel, Communication, Python",Not Placed,Not selected,0,2023
+S0233,Student_233,Female,ECE,9.13,"Data Analysis, Excel, Java",Placed,Deloitte,8.2,2025
+S0234,Student_234,Female,Civil,9.32,"Power BI, C++, Python",Placed,Accenture,9.13,2024
+S0235,Student_235,Female,ECE,6.2,"C++, Communication, Machine Learning",Placed,HCL,7.39,2025
+S0236,Student_236,Male,ECE,6.33,"Python, Excel, Communication",Not Placed,Not selected,0,2023
+S0237,Student_237,Male,IT,7.54,"SQL, Excel, Power BI",Placed,Accenture,6.43,2023
+S0238,Student_238,Female,IT,6.46,"Communication, Java, Python",Placed,Accenture,3.67,2023
+S0239,Student_239,Male,Mech,9.72,"Communication, Data Analysis, Excel",Placed,Wipro,10.05,2024
+S0240,Student_240,Male,Mech,7.32,"Python, Power BI, SQL",Placed,Tech Mahindra,11.94,2024
+S0241,Student_241,Male,Mech,8.31,"Data Analysis, Power BI, SQL",Placed,Capgemini,7.02,2023
+S0242,Student_242,Female,ECE,6.04,"Data Analysis, Communication, Power BI",Placed,Accenture,7.93,2025
+S0243,Student_243,Male,EEE,7.57,"C++, Java, Python",Not Placed,Not selected,0,2023
+S0244,Student_244,Female,IT,7.15,"Data Analysis, C++, Excel",Not Placed,Not selected,0,2024
+S0245,Student_245,Male,Mech,6.51,"Power BI, Data Analysis, Java",Placed,Deloitte,9.53,2023
+S0246,Student_246,Male,CSE,8.09,"Machine Learning, Communication, Excel",Placed,Cognizant,6.5,2023
+S0247,Student_247,Female,ECE,8.01,"Python, Data Analysis, Machine Learning",Not Placed,Not selected,0,2025
+S0248,Student_248,Male,CSE,5.99,"Python, Machine Learning, C++",Placed,Tech Mahindra,3.22,2023
+S0249,Student_249,Male,Civil,6.8,"C++, Machine Learning, Excel",Not Placed,Not selected,0,2023
+S0250,Student_250,Female,ECE,6.77,"Communication, Python, Data Analysis",Not Placed,Not selected,0,2023
+S0251,Student_251,Female,EEE,6.71,"C++, Java, Power BI",Placed,TCS,9.02,2024
+S0252,Student_252,Male,Civil,7.57,"Power BI, Python, Machine Learning",Not Placed,Not selected,0,2023
+S0253,Student_253,Female,EEE,9.44,"Machine Learning, Python, SQL",Placed,TCS,10.11,2024
+S0254,Student_254,Female,IT,7.32,"C++, Java, Python",Not Placed,Not selected,0,2024
+S0255,Student_255,Female,EEE,7.52,"Communication, Python, SQL",Not Placed,Not selected,0,2023
+S0256,Student_256,Male,CSE,8.09,"Communication, SQL, Python",Placed,TCS,5.95,2023
+S0257,Student_257,Female,Civil,8.03,"Data Analysis, Power BI, Excel",Placed,Deloitte,10.81,2024
+S0258,Student_258,Male,ECE,5.92,"Data Analysis, Communication, SQL",Not Placed,Not selected,0,2023
+S0259,Student_259,Male,Mech,6.42,"Java, Power BI, Machine Learning",Not Placed,Not selected,0,2024
+S0260,Student_260,Female,CSE,6.76,"Machine Learning, Java, Communication",Placed,Infosys,5.92,2025
+S0261,Student_261,Male,EEE,8.84,"Python, Excel, C++",Placed,TCS,9.66,2025
+S0262,Student_262,Male,EEE,8.57,"Java, C++, SQL",Placed,IBM,7.35,2023
+S0263,Student_263,Male,ECE,8.91,"SQL, Power BI, Communication",Placed,Deloitte,3.06,2023
+S0264,Student_264,Female,IT,8.5,"Java, Machine Learning, C++",Placed,Capgemini,10.13,2024
+S0265,Student_265,Male,Civil,9.28,"Power BI, C++, Communication",Not Placed,Not selected,0,2025
+S0266,Student_266,Female,Civil,7.97,"Python, Communication, Java",Placed,Cognizant,9.34,2024
+S0267,Student_267,Female,CSE,7.57,"Power BI, Excel, Python",Placed,Accenture,4.74,2025
+S0268,Student_268,Male,Civil,7.04,"Python, Communication, Machine Learning",Placed,Cognizant,3.15,2025
+S0269,Student_269,Male,Civil,8.37,"Excel, C++, Communication",Not Placed,Not selected,0,2025
+S0270,Student_270,Female,Mech,9.02,"Excel, Data Analysis, SQL",Placed,Capgemini,7.52,2024
+S0271,Student_271,Male,IT,6.34,"SQL, Python, Power BI",Not Placed,Not selected,0,2024
+S0272,Student_272,Male,Civil,6.71,"Excel, Machine Learning, Data Analysis",Placed,TCS,3.9,2025
+S0273,Student_273,Female,EEE,8.31,"SQL, Machine Learning, Power BI",Placed,IBM,8.3,2023
+S0274,Student_274,Male,Civil,6.89,"Python, Communication, SQL",Not Placed,Not selected,0,2023
+S0275,Student_275,Male,ECE,7.14,"Data Analysis, Java, C++",Placed,Capgemini,10.61,2023
+S0276,Student_276,Female,CSE,5.71,"Machine Learning, Java, Data Analysis",Placed,Accenture,4.78,2023
+S0277,Student_277,Male,CSE,8.7,"C++, Machine Learning, Communication",Placed,HCL,9.08,2025
+S0278,Student_278,Male,IT,7.81,"C++, Power BI, SQL",Placed,Accenture,4.22,2023
+S0279,Student_279,Male,CSE,8.18,"Java, Data Analysis, SQL",Placed,Tech Mahindra,11.06,2024
+S0280,Student_280,Male,Civil,8.45,"Power BI, Excel, Java",Not Placed,Not selected,0,2025
+S0281,Student_281,Female,ECE,9.09,"Python, C++, Communication",Placed,Infosys,6.29,2023
+S0282,Student_282,Female,IT,7.02,"C++, Communication, Java",Placed,Capgemini,9.77,2025
+S0283,Student_283,Male,IT,7.16,"Data Analysis, Python, Machine Learning",Not Placed,Not selected,0,2024
+S0284,Student_284,Female,Mech,7.82,"Machine Learning, Excel, Data Analysis",Placed,Cognizant,11.21,2023
+S0285,Student_285,Female,CSE,8.04,"Python, Excel, Data Analysis",Placed,Cognizant,11.15,2024
+S0286,Student_286,Female,CSE,9.41,"Excel, Machine Learning, C++",Placed,Capgemini,10.03,2023
+S0287,Student_287,Male,Mech,7.38,"Python, Excel, Data Analysis",Placed,Deloitte,5.15,2025
+S0288,Student_288,Female,CSE,7.46,"Java, Python, SQL",Placed,Infosys,7.77,2023
+S0289,Student_289,Female,Mech,6.31,"Machine Learning, Excel, C++",Placed,Cognizant,4.33,2024
+S0290,Student_290,Male,EEE,8.1,"Excel, Python, Power BI",Not Placed,Not selected,0,2025
+S0291,Student_291,Female,Mech,8.6,"Data Analysis, C++, Machine Learning",Not Placed,Not selected,0,2023
+S0292,Student_292,Female,Civil,5.65,"Python, Data Analysis, C++",Placed,Deloitte,3.48,2025
+S0293,Student_293,Female,Mech,6.09,"Excel, Communication, C++",Not Placed,Not selected,0,2024
+S0294,Student_294,Male,ECE,9.13,"Power BI, Communication, Python",Placed,HCL,6.81,2025
+S0295,Student_295,Female,EEE,8.46,"Power BI, Java, Data Analysis",Placed,Capgemini,6.98,2025
+S0296,Student_296,Male,Mech,8.45,"Power BI, Data Analysis, Java",Placed,TCS,10.94,2023
+S0297,Student_297,Male,EEE,7.13,"Python, SQL, Java",Not Placed,Not selected,0,2024
+S0298,Student_298,Female,Civil,6.7,"Java, Excel, Machine Learning",Placed,Cognizant,9.15,2025
+S0299,Student_299,Female,ECE,7.52,"Communication, Data Analysis, Excel",Placed,Infosys,8.8,2025
+S0300,Student_300,Female,CSE,7.08,"Communication, C++, Python",Placed,Accenture,9.08,2023
+S0301,Student_301,Female,Mech,7.87,"Machine Learning, SQL, Python",Placed,Tech Mahindra,6.62,2025
+S0302,Student_302,Male,ECE,8.13,"Machine Learning, Excel, SQL",Not Placed,Not selected,0,2025
+S0303,Student_303,Male,ECE,6.7,"Communication, Python, Excel",Placed,HCL,8.9,2024
+S0304,Student_304,Male,Mech,9.43,"Power BI, Communication, Python",Placed,Capgemini,10.71,2023
+S0305,Student_305,Female,Civil,9.14,"Python, SQL, Java",Placed,HCL,4.33,2024
+S0306,Student_306,Female,Civil,7.42,"Data Analysis, C++, Excel",Placed,Cognizant,3.08,2023
+S0307,Student_307,Male,CSE,6.44,"Java, Data Analysis, Python",Placed,IBM,9.67,2025
+S0308,Student_308,Male,Civil,7.93,"SQL, Java, Excel",Placed,HCL,3.14,2023
+S0309,Student_309,Female,IT,9.7,"Python, SQL, Communication",Placed,HCL,10.08,2023
+S0310,Student_310,Male,EEE,8.14,"Data Analysis, Python, Java",Not Placed,Not selected,0,2023
+S0311,Student_311,Female,Mech,9.33,"SQL, Data Analysis, Excel",Placed,Wipro,11.24,2024
+S0312,Student_312,Male,IT,7.14,"SQL, C++, Excel",Placed,Accenture,6,2023
+S0313,Student_313,Male,EEE,8.26,"Java, Communication, Machine Learning",Placed,Capgemini,6.43,2025
+S0314,Student_314,Male,IT,9.55,"C++, SQL, Data Analysis",Placed,IBM,10.83,2025
+S0315,Student_315,Female,Civil,7.09,"Power BI, Data Analysis, Machine Learning",Not Placed,Not selected,0,2025
+S0316,Student_316,Female,CSE,6.65,"C++, Machine Learning, Python",Placed,Capgemini,4.81,2025
+S0317,Student_317,Female,ECE,8.88,"Power BI, Java, Excel",Placed,Capgemini,5.11,2025
+S0318,Student_318,Male,EEE,9.32,"Machine Learning, Excel, C++",Not Placed,Not selected,0,2024
+S0319,Student_319,Female,EEE,9.31,"C++, Power BI, Machine Learning",Placed,Accenture,11.41,2025
+S0320,Student_320,Male,IT,8.35,"Java, Communication, SQL",Not Placed,Not selected,0,2023
+S0321,Student_321,Male,IT,7.6,"Data Analysis, Machine Learning, SQL",Not Placed,Not selected,0,2025
+S0322,Student_322,Male,Civil,9.38,"Power BI, C++, Machine Learning",Placed,Tech Mahindra,6.35,2023
+S0323,Student_323,Female,IT,7.86,"Power BI, Data Analysis, Machine Learning",Not Placed,Not selected,0,2025
+S0324,Student_324,Male,EEE,9.19,"Power BI, Python, Machine Learning",Not Placed,Not selected,0,2023
+S0325,Student_325,Female,Mech,8.51,"Data Analysis, Excel, C++",Placed,IBM,11.6,2025
+S0326,Student_326,Female,CSE,7.83,"Excel, C++, Communication",Placed,Infosys,7.41,2025
+S0327,Student_327,Female,ECE,6.75,"Data Analysis, Java, C++",Placed,Accenture,7.36,2024
+S0328,Student_328,Male,EEE,8.4,"Communication, Machine Learning, Java",Placed,Cognizant,6.9,2025
+S0329,Student_329,Male,Civil,5.93,"Machine Learning, C++, Java",Placed,Tech Mahindra,4.4,2025
+S0330,Student_330,Male,Mech,8.03,"Machine Learning, Java, C++",Placed,HCL,11.09,2025
+S0331,Student_331,Female,CSE,6.44,"Data Analysis, SQL, Machine Learning",Not Placed,Not selected,0,2023
+S0332,Student_332,Female,CSE,6.3,"Communication, Machine Learning, C++",Placed,Accenture,7.39,2024
+S0333,Student_333,Female,Mech,6.61,"Communication, Java, Data Analysis",Placed,Infosys,11.93,2023
+S0334,Student_334,Female,CSE,5.73,"Communication, Data Analysis, Python",Placed,Deloitte,4.55,2025
+S0335,Student_335,Male,Mech,9.61,"C++, Data Analysis, SQL",Placed,Capgemini,6.4,2024
+S0336,Student_336,Female,ECE,6.38,"SQL, Excel, Data Analysis",Placed,Accenture,3.94,2025
+S0337,Student_337,Female,EEE,9.37,"SQL, Python, Machine Learning",Not Placed,Not selected,0,2025
+S0338,Student_338,Male,ECE,5.92,"SQL, C++, Java",Not Placed,Not selected,0,2024
+S0339,Student_339,Female,Mech,6.2,"SQL, Excel, Power BI",Placed,Cognizant,4.98,2025
+S0340,Student_340,Female,ECE,9.26,"C++, Data Analysis, Python",Not Placed,Not selected,0,2023
+S0341,Student_341,Female,CSE,5.51,"Communication, Machine Learning, Data Analysis",Placed,Tech Mahindra,5.22,2024
+S0342,Student_342,Female,Civil,8.29,"Java, Machine Learning, Excel",Not Placed,Not selected,0,2025
+S0343,Student_343,Male,Civil,7.69,"Power BI, Machine Learning, Communication",Placed,Tech Mahindra,9.94,2023
+S0344,Student_344,Male,EEE,6.43,"Java, Data Analysis, C++",Placed,Capgemini,11.82,2024
+S0345,Student_345,Male,Mech,8.38,"Java, Power BI, Excel",Placed,Accenture,10.44,2025
+S0346,Student_346,Female,CSE,5.82,"Power BI, Java, Python",Not Placed,Not selected,0,2023
+S0347,Student_347,Female,EEE,9.16,"SQL, Communication, Data Analysis",Placed,Accenture,5.73,2024
+S0348,Student_348,Female,Civil,9.05,"Python, Power BI, Java",Not Placed,Not selected,0,2023
+S0349,Student_349,Female,CSE,9.34,"Data Analysis, SQL, C++",Placed,Deloitte,4.79,2024
+S0350,Student_350,Female,Civil,8.69,"Machine Learning, Data Analysis, C++",Not Placed,Not selected,0,2023
+S0351,Student_351,Male,ECE,9.02,"Python, C++, Communication",Placed,Capgemini,5.92,2025
+S0352,Student_352,Female,IT,8.01,"Data Analysis, Power BI, C++",Placed,Tech Mahindra,11.74,2024
+S0353,Student_353,Female,ECE,8.42,"Excel, Communication, Power BI",Not Placed,Not selected,0,2023
+S0354,Student_354,Male,IT,5.95,"Java, Machine Learning, Data Analysis",Not Placed,Not selected,0,2024
+S0355,Student_355,Male,Mech,7.79,"Data Analysis, Java, C++",Placed,TCS,5.67,2024
+S0356,Student_356,Female,ECE,8.33,"Data Analysis, Power BI, Machine Learning",Placed,TCS,10.97,2024
+S0357,Student_357,Female,ECE,7.28,"Excel, Communication, SQL",Not Placed,Not selected,0,2025
+S0358,Student_358,Female,EEE,6.58,"Java, Machine Learning, C++",Not Placed,Not selected,0,2023
+S0359,Student_359,Male,EEE,8.44,"SQL, Excel, Power BI",Not Placed,Not selected,0,2023
+S0360,Student_360,Female,EEE,6.72,"Java, Python, Communication",Placed,IBM,3.64,2025
+S0361,Student_361,Female,Mech,5.92,"Python, Machine Learning, Communication",Placed,Cognizant,3.4,2023
+S0362,Student_362,Male,Mech,9.32,"Power BI, Data Analysis, C++",Placed,TCS,4.88,2023
+S0363,Student_363,Male,Civil,8.89,"C++, Data Analysis, SQL",Placed,Accenture,6.82,2023
+S0364,Student_364,Female,Mech,8.6,"Excel, Python, Power BI",Not Placed,Not selected,0,2023
+S0365,Student_365,Male,Civil,9.02,"SQL, C++, Power BI",Placed,Capgemini,10.21,2024
+S0366,Student_366,Female,ECE,8.97,"Power BI, SQL, Machine Learning",Placed,Capgemini,10.91,2025
+S0367,Student_367,Female,Civil,9.77,"Excel, C++, Data Analysis",Not Placed,Not selected,0,2023
+S0368,Student_368,Male,Mech,8.25,"Java, SQL, Power BI",Placed,Capgemini,6.46,2024
+S0369,Student_369,Female,CSE,6.26,"Machine Learning, Python, Excel",Placed,Infosys,3.05,2024
+S0370,Student_370,Female,Civil,9.53,"Power BI, C++, Data Analysis",Placed,Capgemini,9.09,2023
+S0371,Student_371,Female,Civil,6.35,"Power BI, Java, Data Analysis",Placed,Tech Mahindra,5.38,2023
+S0372,Student_372,Female,Civil,7.19,"Communication, Data Analysis, Excel",Placed,Capgemini,4.92,2025
+S0373,Student_373,Male,ECE,7.53,"Machine Learning, C++, Power BI",Placed,Cognizant,10.77,2023
+S0374,Student_374,Male,Mech,6.46,"Data Analysis, Communication, Excel",Not Placed,Not selected,0,2023
+S0375,Student_375,Female,IT,5.66,"Power BI, Excel, SQL",Placed,IBM,9.81,2025
+S0376,Student_376,Female,Mech,8.62,"C++, Python, Data Analysis",Placed,HCL,3.23,2023
+S0377,Student_377,Female,Civil,9.07,"Data Analysis, Power BI, Machine Learning",Placed,Wipro,6.09,2024
+S0378,Student_378,Male,CSE,9.17,"C++, Communication, Machine Learning",Not Placed,Not selected,0,2025
+S0379,Student_379,Male,ECE,6.01,"Machine Learning, Data Analysis, Python",Not Placed,Not selected,0,2023
+S0380,Student_380,Female,ECE,9.48,"Data Analysis, C++, Machine Learning",Placed,HCL,8.68,2025
+S0381,Student_381,Male,Mech,8.17,"Power BI, Machine Learning, SQL",Placed,Tech Mahindra,10.57,2024
+S0382,Student_382,Female,Mech,6.82,"Power BI, Excel, C++",Placed,Deloitte,4.04,2025
+S0383,Student_383,Male,CSE,9.77,"C++, Machine Learning, Python",Placed,IBM,8.84,2024
+S0384,Student_384,Female,IT,7.88,"Data Analysis, SQL, Machine Learning",Placed,Tech Mahindra,11.78,2024
+S0385,Student_385,Male,Civil,6.07,"Excel, SQL, Data Analysis",Not Placed,Not selected,0,2025
+S0386,Student_386,Female,Mech,5.99,"Java, SQL, Machine Learning",Placed,Capgemini,11.24,2024
+S0387,Student_387,Male,ECE,7.61,"SQL, Data Analysis, C++",Not Placed,Not selected,0,2023
+S0388,Student_388,Male,EEE,7.68,"Excel, C++, Data Analysis",Not Placed,Not selected,0,2025
+S0389,Student_389,Female,EEE,9.27,"Data Analysis, SQL, Python",Not Placed,Not selected,0,2023
+S0390,Student_390,Male,Civil,6.63,"Power BI, Communication, SQL",Placed,HCL,7.4,2024
+S0391,Student_391,Female,ECE,6.53,"Python, Communication, Java",Placed,Accenture,8.46,2025
+S0392,Student_392,Male,Civil,9.23,"Java, SQL, Machine Learning",Placed,Accenture,10.05,2024
+S0393,Student_393,Female,EEE,6.6,"Java, Communication, Python",Placed,TCS,7.41,2023
+S0394,Student_394,Female,CSE,8.22,"Python, Communication, Power BI",Placed,Tech Mahindra,7.74,2024
+S0395,Student_395,Female,Civil,6.42,"Power BI, Excel, Communication",Not Placed,Not selected,0,2023
+S0396,Student_396,Female,Civil,8.01,"SQL, Python, Java",Placed,Accenture,3.85,2024
+S0397,Student_397,Male,Mech,7.62,"Communication, Excel, Data Analysis",Not Placed,Not selected,0,2025
+S0398,Student_398,Female,CSE,5.57,"Python, Excel, Data Analysis",Placed,Cognizant,8.61,2023
+S0399,Student_399,Female,Civil,8.23,"Excel, Power BI, Machine Learning",Not Placed,Not selected,0,2023
+S0400,Student_400,Male,CSE,8.19,"C++, Java, Machine Learning",Not Placed,Not selected,0,2025
+S0401,Student_401,Female,CSE,6.66,"Communication, SQL, Power BI",Placed,Accenture,11.33,2024
+S0402,Student_402,Male,CSE,6.21,"Data Analysis, Machine Learning, Power BI",Placed,TCS,7.43,2025
+S0403,Student_403,Female,Mech,6.25,"Excel, Data Analysis, Communication",Placed,Wipro,7.17,2023
+S0404,Student_404,Male,Mech,9.07,"Python, Power BI, Communication",Not Placed,Not selected,0,2025
+S0405,Student_405,Male,IT,9.59,"SQL, Python, Power BI",Not Placed,Not selected,0,2023
+S0406,Student_406,Male,Civil,9.42,"Machine Learning, Communication, Excel",Not Placed,Not selected,0,2025
+S0407,Student_407,Male,IT,8.36,"Excel, C++, Python",Placed,IBM,6.09,2025
+S0408,Student_408,Male,ECE,9.21,"Communication, Excel, SQL",Not Placed,Not selected,0,2025
+S0409,Student_409,Female,Mech,7.15,"Excel, Power BI, Java",Placed,Wipro,5.8,2025
+S0410,Student_410,Female,ECE,7.06,"Python, C++, Java",Placed,Tech Mahindra,9.06,2024
+S0411,Student_411,Female,CSE,7.76,"Excel, Machine Learning, Data Analysis",Not Placed,Not selected,0,2025
+S0412,Student_412,Male,Civil,9.1,"Excel, Machine Learning, SQL",Placed,TCS,3.59,2025
+S0413,Student_413,Male,Mech,7.19,"Java, Machine Learning, Excel",Not Placed,Not selected,0,2025
+S0414,Student_414,Female,IT,9.71,"Excel, Machine Learning, Power BI",Placed,Wipro,4.82,2023
+S0415,Student_415,Male,Civil,7.1,"Data Analysis, Python, Power BI",Placed,Wipro,9.54,2024
+S0416,Student_416,Female,Mech,6.01,"Python, C++, Data Analysis",Not Placed,Not selected,0,2025
+S0417,Student_417,Female,ECE,9.15,"Machine Learning, Java, C++",Placed,Capgemini,11.98,2024
+S0418,Student_418,Female,IT,9.72,"C++, Machine Learning, SQL",Placed,Wipro,6.84,2025
+S0419,Student_419,Female,Mech,8,"Power BI, Communication, Excel",Not Placed,Not selected,0,2025
+S0420,Student_420,Female,CSE,9.55,"Machine Learning, SQL, Communication",Not Placed,Not selected,0,2023
+S0421,Student_421,Male,Civil,8.57,"Excel, Python, C++",Placed,Infosys,8.73,2025
+S0422,Student_422,Male,Civil,7.76,"Data Analysis, SQL, Machine Learning",Placed,IBM,10.26,2023
+S0423,Student_423,Female,Mech,9.02,"Python, Communication, Excel",Placed,Accenture,8.06,2025
+S0424,Student_424,Female,CSE,9.53,"SQL, Machine Learning, C++",Not Placed,Not selected,0,2023
+S0425,Student_425,Female,Mech,7.13,"Python, Excel, SQL",Not Placed,Not selected,0,2025
+S0426,Student_426,Female,Civil,9.21,"Excel, Power BI, Java",Placed,Cognizant,9.65,2025
+S0427,Student_427,Male,CSE,8.75,"Machine Learning, Data Analysis, C++",Not Placed,Not selected,0,2023
+S0428,Student_428,Female,Civil,9.73,"Java, Excel, Communication",Not Placed,Not selected,0,2024
+S0429,Student_429,Male,IT,7.31,"Data Analysis, Excel, Machine Learning",Placed,Accenture,3.3,2024
+S0430,Student_430,Female,Mech,7.32,"Data Analysis, Machine Learning, SQL",Placed,Tech Mahindra,9.96,2024
+S0431,Student_431,Male,IT,7.13,"Power BI, Data Analysis, Excel",Not Placed,Not selected,0,2025
+S0432,Student_432,Female,Civil,8.99,"Power BI, Communication, Machine Learning",Not Placed,Not selected,0,2023
+S0433,Student_433,Male,EEE,6.35,"Data Analysis, Python, SQL",Placed,Wipro,4.87,2023
+S0434,Student_434,Female,CSE,7.71,"Data Analysis, Machine Learning, Python",Placed,TCS,4.8,2023
+S0435,Student_435,Male,CSE,6.59,"C++, Communication, Java",Not Placed,Not selected,0,2023
+S0436,Student_436,Female,ECE,7.75,"C++, Machine Learning, SQL",Placed,Infosys,11.01,2025
+S0437,Student_437,Male,CSE,5.82,"Power BI, SQL, Communication",Placed,Tech Mahindra,6.86,2025
+S0438,Student_438,Female,ECE,8.93,"SQL, Communication, Excel",Placed,Accenture,9.4,2023
+S0439,Student_439,Male,Civil,7.94,"Power BI, Excel, Java",Placed,Wipro,7.26,2025
+S0440,Student_440,Female,CSE,8.09,"Excel, Python, Power BI",Placed,Tech Mahindra,11.78,2023
+S0441,Student_441,Female,Mech,8.33,"SQL, Java, Power BI",Not Placed,Not selected,0,2025
+S0442,Student_442,Male,Civil,8.83,"Power BI, Python, C++",Placed,Tech Mahindra,7.28,2023
+S0443,Student_443,Male,Mech,7.45,"Excel, Power BI, Java",Placed,Cognizant,6.2,2023
+S0444,Student_444,Male,EEE,7.76,"C++, Communication, Power BI",Placed,HCL,6.86,2025
+S0445,Student_445,Female,ECE,8.39,"Power BI, Excel, Communication",Placed,HCL,8.52,2024
+S0446,Student_446,Male,ECE,5.87,"Data Analysis, C++, Excel",Placed,Accenture,3.2,2025
+S0447,Student_447,Male,ECE,6.36,"C++, Excel, Java",Placed,Deloitte,9.09,2023
+S0448,Student_448,Female,IT,9.4,"Communication, Machine Learning, Excel",Placed,Deloitte,11.72,2025
+S0449,Student_449,Female,EEE,7.24,"Java, Data Analysis, Python",Placed,Deloitte,3.05,2023
+S0450,Student_450,Female,ECE,8.94,"Java, C++, Python",Not Placed,Not selected,0,2024
+S0451,Student_451,Female,IT,6.11,"Power BI, Communication, SQL",Placed,Accenture,6.99,2025
+S0452,Student_452,Female,CSE,7.19,"Power BI, Communication, Excel",Placed,IBM,10.26,2023
+S0453,Student_453,Female,EEE,7.87,"Excel, Data Analysis, Power BI",Not Placed,Not selected,0,2025
+S0454,Student_454,Male,Civil,7.96,"Data Analysis, Power BI, SQL",Placed,HCL,5.99,2024
+S0455,Student_455,Male,Mech,8.82,"SQL, Python, Data Analysis",Not Placed,Not selected,0,2023
+S0456,Student_456,Male,Mech,6.38,"Python, C++, Java",Not Placed,Not selected,0,2025
+S0457,Student_457,Male,CSE,6.09,"Excel, Machine Learning, Power BI",Not Placed,Not selected,0,2025
+S0458,Student_458,Male,ECE,9.62,"Python, Data Analysis, C++",Placed,Tech Mahindra,4.24,2023
+S0459,Student_459,Female,Civil,9.48,"Machine Learning, Java, Power BI",Placed,Wipro,8.79,2025
+S0460,Student_460,Female,IT,5.98,"Python, C++, Machine Learning",Not Placed,Not selected,0,2025
+S0461,Student_461,Male,ECE,8.14,"Power BI, Python, Machine Learning",Placed,HCL,5.88,2024
+S0462,Student_462,Female,Civil,5.55,"C++, Power BI, Data Analysis",Placed,Tech Mahindra,11.31,2024
+S0463,Student_463,Female,CSE,9.73,"Machine Learning, SQL, Python",Placed,HCL,6.01,2024
+S0464,Student_464,Male,IT,6,"Python, SQL, Java",Placed,Accenture,6.62,2025
+S0465,Student_465,Female,EEE,8.54,"Python, Communication, Machine Learning",Placed,Wipro,10.54,2025
+S0466,Student_466,Female,IT,8.3,"Java, Excel, Machine Learning",Placed,HCL,4.26,2025
+S0467,Student_467,Female,ECE,6.76,"Data Analysis, Communication, Power BI",Placed,Cognizant,6.95,2025
+S0468,Student_468,Female,Mech,6.64,"Power BI, Java, Machine Learning",Placed,HCL,10.25,2024
+S0469,Student_469,Male,Mech,8.8,"Machine Learning, Communication, Python",Placed,IBM,4.8,2025
+S0470,Student_470,Male,CSE,8.89,"Machine Learning, Python, Excel",Not Placed,Not selected,0,2023
+S0471,Student_471,Female,Mech,5.55,"Communication, Python, Excel",Placed,TCS,7.28,2023
+S0472,Student_472,Female,Civil,9.71,"Communication, Power BI, Python",Not Placed,Not selected,0,2025
+S0473,Student_473,Female,ECE,6.67,"SQL, Java, Communication",Placed,Capgemini,5.77,2023
+S0474,Student_474,Male,Civil,6.72,"Excel, Java, C++",Placed,Cognizant,6.17,2024
+S0475,Student_475,Male,EEE,8.89,"Machine Learning, Java, Communication",Placed,HCL,11.48,2025
+S0476,Student_476,Male,ECE,9.27,"Excel, Python, Communication",Placed,Infosys,9.36,2023
+S0477,Student_477,Female,ECE,9.1,"Data Analysis, SQL, Machine Learning",Placed,Cognizant,4.11,2023
+S0478,Student_478,Female,Civil,8.2,"Power BI, Machine Learning, Python",Placed,Wipro,3.9,2024
+S0479,Student_479,Male,Mech,9.12,"Machine Learning, Communication, Data Analysis",Placed,Deloitte,3.67,2024
+S0480,Student_480,Male,IT,8.15,"SQL, Excel, Python",Placed,Tech Mahindra,11.66,2024
+S0481,Student_481,Male,EEE,8.18,"Communication, Data Analysis, Java",Placed,HCL,4.17,2025
+S0482,Student_482,Female,IT,5.95,"Excel, C++, SQL",Not Placed,Not selected,0,2023
+S0483,Student_483,Male,CSE,8.3,"Communication, Java, Python",Not Placed,Not selected,0,2024
+S0484,Student_484,Female,CSE,7.16,"Power BI, C++, Python",Placed,Wipro,9.89,2024
+S0485,Student_485,Male,Mech,8.56,"Java, C++, Communication",Placed,Capgemini,7.3,2025
+S0486,Student_486,Female,IT,7.6,"Excel, Java, C++",Placed,Tech Mahindra,4.43,2025
+S0487,Student_487,Female,IT,7.51,"C++, Excel, Data Analysis",Placed,IBM,3.38,2023
+S0488,Student_488,Male,Civil,6.98,"SQL, Excel, Python",Placed,Accenture,11.48,2023
+S0489,Student_489,Male,EEE,6.93,"Communication, Python, Data Analysis",Placed,Deloitte,11.21,2023
+S0490,Student_490,Female,IT,8.38,"Data Analysis, Excel, SQL",Placed,Wipro,10.34,2025
+S0491,Student_491,Female,ECE,6,"Data Analysis, Power BI, C++",Not Placed,Not selected,0,2023
+S0492,Student_492,Male,EEE,9.27,"Machine Learning, SQL, Power BI",Not Placed,Not selected,0,2025
+S0493,Student_493,Female,EEE,7.99,"Java, Machine Learning, Python",Not Placed,Not selected,0,2025
+S0494,Student_494,Female,Mech,6.16,"SQL, Power BI, Java",Not Placed,Not selected,0,2024
+S0495,Student_495,Male,Mech,6.56,"SQL, Data Analysis, C++",Placed,HCL,5.15,2025
+S0496,Student_496,Male,Civil,6.01,"C++, Power BI, SQL",Not Placed,Not selected,0,2023
+S0497,Student_497,Female,IT,6.51,"Excel, Java, Machine Learning",Placed,IBM,9.23,2023
+S0498,Student_498,Male,CSE,6.72,"Java, SQL, Python",Not Placed,Not selected,0,2024
+S0499,Student_499,Male,Mech,8.05,"Java, Excel, Data Analysis",Placed,Capgemini,7.42,2023
+S0500,Student_500,Male,CSE,9.15,"Python, C++, Data Analysis",Placed,IBM,5.48,2025
+S0501,Student_501,Female,EEE,6.82,"Machine Learning, Communication, Java",Placed,Tech Mahindra,6.1,2024
+S0502,Student_502,Female,ECE,9.52,"Python, SQL, Java",Placed,TCS,3.75,2024
+S0503,Student_503,Male,ECE,8.19,"Machine Learning, SQL, Java",Placed,HCL,11.99,2023
+S0504,Student_504,Female,ECE,6.09,"Communication, Power BI, Excel",Placed,Infosys,9.99,2025
+S0505,Student_505,Female,IT,9.14,"Excel, Machine Learning, Data Analysis",Not Placed,Not selected,0,2023
+S0506,Student_506,Male,ECE,6.58,"Machine Learning, Excel, Communication",Not Placed,Not selected,0,2023
+S0507,Student_507,Male,Civil,5.76,"Machine Learning, SQL, C++",Not Placed,Not selected,0,2024
+S0508,Student_508,Male,CSE,6.29,"SQL, Java, Data Analysis",Not Placed,Not selected,0,2025
+S0509,Student_509,Male,CSE,9.27,"Excel, Data Analysis, Communication",Placed,Deloitte,5.25,2025
+S0510,Student_510,Female,EEE,8.11,"Excel, SQL, Java",Placed,Wipro,8.73,2024
+S0511,Student_511,Female,ECE,8.73,"Data Analysis, Machine Learning, Communication",Placed,Cognizant,8.76,2024
+S0512,Student_512,Female,Civil,7.13,"Machine Learning, Communication, Python",Placed,Tech Mahindra,7.04,2023
+S0513,Student_513,Female,ECE,9.49,"Communication, SQL, Excel",Not Placed,Not selected,0,2024
+S0514,Student_514,Female,IT,5.89,"Power BI, Communication, Python",Placed,Wipro,7.17,2023
+S0515,Student_515,Female,IT,7.75,"Machine Learning, SQL, Data Analysis",Not Placed,Not selected,0,2025
+S0516,Student_516,Male,CSE,7.28,"Machine Learning, Power BI, Python",Placed,Wipro,8.39,2025
+S0517,Student_517,Male,EEE,8.32,"Python, SQL, Java",Not Placed,Not selected,0,2023
+S0518,Student_518,Male,EEE,5.84,"Communication, Machine Learning, C++",Placed,Accenture,3.87,2023
+S0519,Student_519,Female,ECE,6.33,"Data Analysis, C++, Power BI",Placed,Deloitte,9.87,2023
+S0520,Student_520,Female,Civil,6.3,"Java, Data Analysis, Power BI",Placed,Accenture,8.55,2024
+S0521,Student_521,Male,IT,7.24,"Communication, SQL, Machine Learning",Placed,IBM,8.44,2023
+S0522,Student_522,Male,ECE,8.21,"Java, Machine Learning, Data Analysis",Placed,Infosys,5.93,2023
+S0523,Student_523,Female,EEE,7.12,"Communication, Excel, SQL",Not Placed,Not selected,0,2025
+S0524,Student_524,Female,Mech,8.29,"Python, Power BI, Machine Learning",Placed,Cognizant,3.75,2023
+S0525,Student_525,Male,IT,8.32,"Data Analysis, Power BI, Java",Placed,Capgemini,5.6,2024
+S0526,Student_526,Female,ECE,8.1,"Excel, Python, Power BI",Placed,Accenture,9.41,2024
+S0527,Student_527,Male,CSE,7.52,"C++, Java, Python",Not Placed,Not selected,0,2025
+S0528,Student_528,Female,ECE,7.97,"SQL, Machine Learning, Python",Placed,Cognizant,7.97,2023
+S0529,Student_529,Male,Civil,9.17,"Machine Learning, SQL, Excel",Placed,IBM,8.76,2025
+S0530,Student_530,Female,Civil,8.24,"SQL, Data Analysis, Excel",Not Placed,Not selected,0,2023
+S0531,Student_531,Male,CSE,8.11,"Excel, Power BI, Machine Learning",Placed,Tech Mahindra,6.12,2024
+S0532,Student_532,Female,Civil,5.97,"Machine Learning, C++, Data Analysis",Not Placed,Not selected,0,2023
+S0533,Student_533,Female,ECE,5.74,"Communication, Excel, Data Analysis",Placed,TCS,6.57,2024
+S0534,Student_534,Female,ECE,9.6,"Machine Learning, Communication, Java",Placed,Infosys,5.04,2025
+S0535,Student_535,Male,CSE,9.28,"Power BI, Python, Excel",Not Placed,Not selected,0,2024
+S0536,Student_536,Female,EEE,7.76,"Data Analysis, Excel, Communication",Placed,TCS,9.62,2023
+S0537,Student_537,Male,Mech,6.91,"Communication, C++, Machine Learning",Placed,Infosys,7.08,2024
+S0538,Student_538,Female,Civil,7.83,"Excel, Python, Data Analysis",Not Placed,Not selected,0,2024
+S0539,Student_539,Female,IT,7.89,"Excel, Power BI, Data Analysis",Not Placed,Not selected,0,2023
+S0540,Student_540,Female,Mech,6.71,"C++, Data Analysis, Excel",Not Placed,Not selected,0,2023
+S0541,Student_541,Male,CSE,8.52,"Communication, C++, Excel",Not Placed,Not selected,0,2024
+S0542,Student_542,Male,Mech,9.1,"Java, Python, SQL",Placed,Cognizant,5.8,2023
+S0543,Student_543,Male,CSE,8.1,"SQL, Excel, Java",Not Placed,Not selected,0,2023
+S0544,Student_544,Female,Mech,5.54,"Power BI, Data Analysis, Communication",Placed,Capgemini,5.37,2023
+S0545,Student_545,Female,Mech,7.39,"Python, Excel, Java",Not Placed,Not selected,0,2024
+S0546,Student_546,Male,ECE,6.6,"C++, SQL, Excel",Not Placed,Not selected,0,2023
+S0547,Student_547,Male,IT,7.26,"Java, Machine Learning, SQL",Placed,Deloitte,11.24,2025
+S0548,Student_548,Male,EEE,9.66,"Communication, Java, SQL",Not Placed,Not selected,0,2023
+S0549,Student_549,Male,Mech,6.45,"Python, Data Analysis, C++",Placed,TCS,5.76,2025
+S0550,Student_550,Male,Mech,8.98,"Power BI, C++, Data Analysis",Placed,Infosys,11.88,2023
+S0551,Student_551,Male,Civil,7.19,"Excel, Java, Data Analysis",Not Placed,Not selected,0,2023
+S0552,Student_552,Female,Civil,6.77,"Python, Communication, Data Analysis",Placed,Cognizant,4.75,2024
+S0553,Student_553,Male,IT,6.23,"Communication, C++, Java",Placed,Capgemini,7.74,2025
+S0554,Student_554,Male,IT,6.21,"Python, Excel, SQL",Placed,Capgemini,8.77,2024
+S0555,Student_555,Male,Civil,5.68,"Communication, SQL, Java",Not Placed,Not selected,0,2023
+S0556,Student_556,Male,IT,6.58,"Data Analysis, Java, Machine Learning",Placed,Deloitte,6.98,2023
+S0557,Student_557,Female,ECE,8.22,"Python, Java, Data Analysis",Placed,Cognizant,5.99,2023
+S0558,Student_558,Male,Civil,9.51,"Python, Power BI, SQL",Placed,Tech Mahindra,9.09,2023
+S0559,Student_559,Female,Mech,8.35,"Excel, Machine Learning, Communication",Placed,Accenture,5,2023
+S0560,Student_560,Male,Mech,8.5,"Power BI, C++, Excel",Not Placed,Not selected,0,2023
+S0561,Student_561,Male,CSE,6.67,"Power BI, SQL, Excel",Placed,Accenture,4.18,2023
+S0562,Student_562,Male,CSE,6.08,"SQL, C++, Java",Placed,Infosys,11.97,2024
+S0563,Student_563,Male,Civil,7.99,"Python, C++, SQL",Placed,Deloitte,6.22,2024
+S0564,Student_564,Male,EEE,8.6,"Excel, Communication, C++",Placed,Infosys,8.17,2025
+S0565,Student_565,Female,EEE,9.65,"Power BI, Java, C++",Placed,TCS,11.04,2023
+S0566,Student_566,Male,CSE,8.22,"Communication, Machine Learning, Power BI",Placed,Wipro,10.86,2023
+S0567,Student_567,Female,Mech,9.16,"Power BI, Communication, Data Analysis",Placed,Tech Mahindra,7.77,2023
+S0568,Student_568,Female,Civil,8.07,"Python, Java, Power BI",Placed,Accenture,6.62,2025
+S0569,Student_569,Female,CSE,9.07,"Machine Learning, Python, Excel",Not Placed,Not selected,0,2024
+S0570,Student_570,Male,CSE,8.68,"Excel, SQL, Machine Learning",Placed,Capgemini,6.36,2024
+S0571,Student_571,Male,IT,9.71,"Data Analysis, Java, Excel",Placed,Deloitte,10.65,2023
+S0572,Student_572,Male,Mech,7.68,"SQL, C++, Power BI",Not Placed,Not selected,0,2025
+S0573,Student_573,Male,EEE,8.9,"Python, Machine Learning, SQL",Placed,Infosys,4.17,2024
+S0574,Student_574,Female,CSE,9.74,"SQL, Communication, Excel",Placed,IBM,11.59,2025
+S0575,Student_575,Female,Civil,6.83,"Data Analysis, Java, Python",Not Placed,Not selected,0,2024
+S0576,Student_576,Female,EEE,9.1,"Data Analysis, SQL, Machine Learning",Placed,Cognizant,3.01,2023
+S0577,Student_577,Female,IT,8.62,"Excel, Data Analysis, Power BI",Not Placed,Not selected,0,2024
+S0578,Student_578,Female,IT,9.27,"Python, Excel, Java",Placed,IBM,3.79,2023
+S0579,Student_579,Male,ECE,9.04,"Python, Communication, Excel",Not Placed,Not selected,0,2024
+S0580,Student_580,Male,CSE,5.66,"C++, SQL, Communication",Placed,TCS,3.59,2024
+S0581,Student_581,Female,EEE,7.93,"Excel, Java, Data Analysis",Not Placed,Not selected,0,2023
+S0582,Student_582,Female,IT,6.55,"Machine Learning, Power BI, SQL",Placed,Infosys,5.88,2024
+S0583,Student_583,Male,IT,5.59,"Data Analysis, Python, Power BI",Placed,Wipro,10.66,2025
+S0584,Student_584,Male,IT,8.24,"Excel, SQL, Machine Learning",Placed,IBM,10.42,2023
+S0585,Student_585,Male,EEE,7.66,"C++, Excel, SQL",Placed,IBM,8.23,2025
+S0586,Student_586,Female,EEE,9.69,"Excel, Python, Machine Learning",Not Placed,Not selected,0,2024
+S0587,Student_587,Male,IT,8.01,"SQL, Machine Learning, Data Analysis",Placed,Capgemini,3.24,2025
+S0588,Student_588,Male,Mech,9.71,"C++, Java, Python",Not Placed,Not selected,0,2023
+S0589,Student_589,Female,ECE,6.26,"SQL, C++, Machine Learning",Placed,Cognizant,9.58,2024
+S0590,Student_590,Female,Civil,9.61,"Java, Python, Data Analysis",Placed,TCS,5.61,2024
+S0591,Student_591,Male,IT,6.54,"Java, Python, C++",Placed,Deloitte,11.66,2023
+S0592,Student_592,Male,Civil,8.1,"Communication, Excel, Java",Not Placed,Not selected,0,2023
+S0593,Student_593,Male,IT,5.56,"Excel, SQL, Communication",Placed,Capgemini,9.62,2025
+S0594,Student_594,Male,Civil,8.03,"Data Analysis, Power BI, Java",Placed,IBM,5.5,2025
+S0595,Student_595,Female,IT,6.15,"Data Analysis, Java, Power BI",Placed,Accenture,8.39,2025
+S0596,Student_596,Female,EEE,8.36,"Python, Power BI, Excel",Placed,HCL,7.16,2024
+S0597,Student_597,Male,Mech,8.53,"Power BI, Data Analysis, Python",Placed,HCL,7.89,2023
+S0598,Student_598,Male,IT,8.9,"Python, SQL, Excel",Placed,Tech Mahindra,8.89,2023
+S0599,Student_599,Female,ECE,7.9,"Python, Machine Learning, Communication",Placed,Capgemini,11.11,2025
+S0600,Student_600,Female,Mech,7.06,"Communication, Data Analysis, Python",Not Placed,Not selected,0,2025
+S0601,Student_601,Female,EEE,7.72,"Communication, Data Analysis, C++",Placed,Infosys,3.31,2025
+S0602,Student_602,Female,EEE,8.68,"Communication, Excel, C++",Not Placed,Not selected,0,2024
+S0603,Student_603,Male,IT,8.57,"Power BI, C++, Communication",Placed,TCS,4.49,2025
+S0604,Student_604,Male,Civil,9.46,"C++, Java, Python",Placed,TCS,10.93,2025
+S0605,Student_605,Female,ECE,5.82,"Python, Java, Power BI",Placed,Accenture,9.33,2025
+S0606,Student_606,Female,Civil,7.92,"Power BI, Python, Excel",Placed,Capgemini,4.4,2023
+S0607,Student_607,Female,Civil,6.47,"Python, C++, Data Analysis",Placed,Cognizant,7.03,2024
+S0608,Student_608,Female,CSE,6.65,"Excel, SQL, Machine Learning",Placed,Wipro,3.15,2023
+S0609,Student_609,Female,Mech,6.53,"Data Analysis, C++, Communication",Placed,Capgemini,9.18,2025
+S0610,Student_610,Female,IT,9.7,"Excel, Java, Data Analysis",Placed,Tech Mahindra,11.49,2024
+S0611,Student_611,Female,Mech,5.55,"Power BI, Data Analysis, Communication",Placed,Deloitte,11.51,2024
+S0612,Student_612,Male,IT,8.49,"SQL, Java, Excel",Not Placed,Not selected,0,2024
+S0613,Student_613,Male,Mech,8.08,"Java, Communication, Power BI",Placed,TCS,6.24,2025
+S0614,Student_614,Male,ECE,7.95,"Python, Power BI, SQL",Placed,Tech Mahindra,5.07,2025
+S0615,Student_615,Female,ECE,9.5,"Python, SQL, Machine Learning",Not Placed,Not selected,0,2025
+S0616,Student_616,Male,Civil,7.3,"Data Analysis, SQL, Power BI",Placed,Infosys,3.51,2025
+S0617,Student_617,Female,CSE,7.32,"Data Analysis, Communication, Machine Learning",Placed,Accenture,9.49,2025
+S0618,Student_618,Male,IT,5.99,"Power BI, Java, Machine Learning",Not Placed,Not selected,0,2024
+S0619,Student_619,Female,Mech,6.53,"Power BI, Java, Excel",Placed,HCL,11.68,2024
+S0620,Student_620,Male,Civil,5.75,"Communication, C++, Data Analysis",Not Placed,Not selected,0,2024
+S0621,Student_621,Female,Civil,6.32,"C++, Java, Excel",Placed,Tech Mahindra,4.91,2024
+S0622,Student_622,Male,EEE,8.39,"Machine Learning, Excel, Data Analysis",Placed,Wipro,4.96,2025
+S0623,Student_623,Female,Civil,8.28,"Data Analysis, Communication, Machine Learning",Not Placed,Not selected,0,2025
+S0624,Student_624,Male,EEE,9.43,"Data Analysis, Excel, Java",Placed,Accenture,3.7,2025
+S0625,Student_625,Male,CSE,8.58,"Python, Communication, C++",Not Placed,Not selected,0,2024
+S0626,Student_626,Male,CSE,6.12,"Python, Machine Learning, SQL",Placed,Capgemini,3.33,2023
+S0627,Student_627,Female,IT,8.8,"C++, Power BI, Python",Not Placed,Not selected,0,2023
+S0628,Student_628,Male,EEE,6.26,"SQL, Python, C++",Not Placed,Not selected,0,2025
+S0629,Student_629,Male,IT,8.22,"C++, Python, Excel",Not Placed,Not selected,0,2024
+S0630,Student_630,Female,CSE,8.63,"Power BI, Communication, C++",Not Placed,Not selected,0,2025
+S0631,Student_631,Female,ECE,7.99,"SQL, C++, Machine Learning",Placed,HCL,3.06,2025
+S0632,Student_632,Female,ECE,9.66,"C++, Data Analysis, Machine Learning",Placed,IBM,5.96,2025
+S0633,Student_633,Male,CSE,7.07,"Machine Learning, SQL, Java",Placed,HCL,11.66,2023
+S0634,Student_634,Male,EEE,5.57,"Power BI, Communication, Python",Placed,Capgemini,5.56,2025
+S0635,Student_635,Male,IT,9.25,"Excel, Python, SQL",Placed,Infosys,9.58,2024
+S0636,Student_636,Female,Civil,8.7,"Machine Learning, C++, Data Analysis",Not Placed,Not selected,0,2024
+S0637,Student_637,Female,IT,8.42,"C++, Data Analysis, Communication",Placed,Wipro,10.59,2024
+S0638,Student_638,Female,Mech,7.62,"SQL, Data Analysis, Communication",Placed,Capgemini,5,2025
+S0639,Student_639,Female,EEE,5.71,"Communication, Python, Data Analysis",Placed,Accenture,4.03,2024
+S0640,Student_640,Female,EEE,5.91,"C++, Power BI, Machine Learning",Not Placed,Not selected,0,2024
+S0641,Student_641,Female,EEE,9.09,"Communication, Excel, SQL",Placed,Capgemini,8.49,2025
+S0642,Student_642,Female,Mech,7.14,"SQL, Python, Power BI",Not Placed,Not selected,0,2024
+S0643,Student_643,Male,EEE,6.89,"Java, Communication, Machine Learning",Not Placed,Not selected,0,2023
+S0644,Student_644,Male,IT,6.21,"Data Analysis, SQL, Java",Placed,Cognizant,6.69,2023
+S0645,Student_645,Female,EEE,7.85,"Excel, SQL, Machine Learning",Placed,Infosys,4.7,2024
+S0646,Student_646,Male,Mech,9.45,"Excel, Power BI, C++",Placed,IBM,10.79,2025
+S0647,Student_647,Female,IT,6.47,"Machine Learning, Communication, SQL",Placed,Accenture,4.03,2023
+S0648,Student_648,Male,ECE,9.11,"Java, SQL, Data Analysis",Placed,TCS,8.55,2024
+S0649,Student_649,Female,Civil,7.45,"C++, SQL, Excel",Placed,HCL,4.4,2025
+S0650,Student_650,Male,IT,9.13,"Python, Power BI, SQL",Not Placed,Not selected,0,2025
+S0651,Student_651,Female,ECE,6.81,"Excel, Data Analysis, Machine Learning",Not Placed,Not selected,0,2025
+S0652,Student_652,Male,Mech,8.93,"Python, Communication, Data Analysis",Placed,Wipro,9.52,2025
+S0653,Student_653,Female,ECE,7.55,"Data Analysis, Communication, Excel",Not Placed,Not selected,0,2025
+S0654,Student_654,Female,IT,6.7,"Data Analysis, Python, Communication",Placed,IBM,5.83,2025
+S0655,Student_655,Female,ECE,6.66,"Data Analysis, Excel, Machine Learning",Not Placed,Not selected,0,2024
+S0656,Student_656,Female,Mech,6.64,"Power BI, C++, Communication",Not Placed,Not selected,0,2025
+S0657,Student_657,Male,Civil,6.51,"SQL, Power BI, C++",Not Placed,Not selected,0,2025
+S0658,Student_658,Female,CSE,6.52,"Java, Data Analysis, Machine Learning",Placed,Deloitte,7.34,2023
+S0659,Student_659,Female,IT,9.78,"C++, Communication, SQL",Placed,Capgemini,9.89,2023
+S0660,Student_660,Male,IT,5.86,"Power BI, Communication, SQL",Placed,HCL,10.44,2025
+S0661,Student_661,Female,ECE,9.74,"Machine Learning, Excel, C++",Placed,HCL,8.07,2024
+S0662,Student_662,Female,Mech,8.12,"Power BI, Machine Learning, C++",Placed,Cognizant,10.77,2024
+S0663,Student_663,Female,IT,8.7,"Java, Power BI, C++",Placed,Deloitte,7.34,2025
+S0664,Student_664,Male,IT,6.06,"SQL, Machine Learning, Communication",Not Placed,Not selected,0,2024
+S0665,Student_665,Female,Mech,6.36,"Java, SQL, Python",Not Placed,Not selected,0,2023
+S0666,Student_666,Female,Mech,5.9,"C++, Data Analysis, Power BI",Placed,HCL,4.43,2025
+S0667,Student_667,Female,ECE,9.42,"Python, Machine Learning, C++",Placed,IBM,3.07,2024
+S0668,Student_668,Male,EEE,7.6,"Java, SQL, Power BI",Placed,Accenture,4.03,2024
+S0669,Student_669,Male,EEE,6.08,"Data Analysis, Power BI, Excel",Placed,IBM,4.29,2023
+S0670,Student_670,Female,Mech,7.68,"Machine Learning, C++, Communication",Placed,Cognizant,8.88,2024
+S0671,Student_671,Female,EEE,8.3,"Excel, Java, Data Analysis",Placed,IBM,9.39,2024
+S0672,Student_672,Female,EEE,8.72,"Excel, Power BI, Communication",Placed,Tech Mahindra,9.37,2023
+S0673,Student_673,Female,Mech,5.77,"C++, Java, SQL",Placed,Tech Mahindra,4.87,2025
+S0674,Student_674,Male,IT,6.73,"Power BI, C++, Java",Placed,TCS,9.94,2025
+S0675,Student_675,Female,Civil,8.36,"Python, Java, Excel",Placed,IBM,10.63,2023
+S0676,Student_676,Male,IT,9.31,"Java, C++, Python",Placed,IBM,3.12,2024
+S0677,Student_677,Female,EEE,7.48,"Java, Communication, C++",Placed,HCL,11.38,2024
+S0678,Student_678,Male,CSE,8.99,"C++, Data Analysis, Python",Not Placed,Not selected,0,2025
+S0679,Student_679,Female,Mech,6.25,"Communication, Excel, Java",Placed,Deloitte,5.95,2023
+S0680,Student_680,Female,EEE,7.51,"Excel, Data Analysis, Machine Learning",Placed,IBM,4.09,2024
+S0681,Student_681,Male,Mech,7.78,"Python, SQL, Communication",Placed,Infosys,4.72,2023
+S0682,Student_682,Male,Civil,6.17,"Java, Power BI, C++",Placed,Accenture,6.98,2024
+S0683,Student_683,Female,IT,9.47,"C++, Power BI, Communication",Placed,IBM,9.84,2024
+S0684,Student_684,Male,CSE,6.5,"Machine Learning, Communication, Power BI",Placed,Cognizant,9.75,2025
+S0685,Student_685,Female,EEE,7.69,"Communication, Python, SQL",Placed,Cognizant,11.09,2023
+S0686,Student_686,Male,Civil,7.6,"Communication, Data Analysis, Java",Placed,Capgemini,7.78,2025
+S0687,Student_687,Male,CSE,8.2,"Python, Excel, SQL",Placed,Accenture,11.18,2024
+S0688,Student_688,Male,IT,6.45,"Data Analysis, C++, Excel",Placed,Wipro,4.43,2023
+S0689,Student_689,Female,ECE,9.07,"Excel, Communication, Data Analysis",Placed,TCS,6.56,2023
+S0690,Student_690,Female,EEE,8.35,"Java, Excel, SQL",Placed,Capgemini,9.66,2023
+S0691,Student_691,Male,ECE,8.33,"Data Analysis, Python, Machine Learning",Placed,Capgemini,7.7,2023
+S0692,Student_692,Female,IT,5.57,"Python, Machine Learning, Power BI",Not Placed,Not selected,0,2025
+S0693,Student_693,Male,Civil,6.58,"Excel, Java, Power BI",Placed,Cognizant,7.21,2024
+S0694,Student_694,Female,CSE,6.49,"Data Analysis, Java, Excel",Not Placed,Not selected,0,2023
+S0695,Student_695,Female,EEE,6.23,"Communication, C++, Data Analysis",Placed,Deloitte,10.6,2023
+S0696,Student_696,Female,Mech,5.62,"Python, Communication, C++",Not Placed,Not selected,0,2024
+S0697,Student_697,Male,IT,8.68,"Communication, Machine Learning, Data Analysis",Not Placed,Not selected,0,2024
+S0698,Student_698,Male,Mech,8.26,"Python, SQL, Excel",Placed,HCL,8.65,2025
+S0699,Student_699,Male,Mech,9.33,"Data Analysis, SQL, Java",Not Placed,Not selected,0,2023
+S0700,Student_700,Male,IT,7.33,"Data Analysis, Communication, Machine Learning",Placed,Wipro,8.23,2024
+S0701,Student_701,Male,Mech,5.6,"Data Analysis, Power BI, SQL",Placed,Accenture,10.89,2024
+S0702,Student_702,Male,Mech,6.45,"Java, C++, Excel",Placed,TCS,6.83,2025
+S0703,Student_703,Male,ECE,7.31,"SQL, Communication, Machine Learning",Placed,Wipro,10.06,2023
+S0704,Student_704,Male,EEE,9.64,"Power BI, Java, C++",Not Placed,Not selected,0,2023
+S0705,Student_705,Female,ECE,6.5,"Python, Power BI, Java",Not Placed,Not selected,0,2024
+S0706,Student_706,Female,ECE,8,"C++, Communication, Java",Placed,Capgemini,7.69,2025
+S0707,Student_707,Female,IT,5.53,"Java, Excel, Machine Learning",Placed,Capgemini,9.98,2023
+S0708,Student_708,Female,Mech,7.58,"Java, SQL, Power BI",Placed,Cognizant,10.93,2025
+S0709,Student_709,Male,IT,7.51,"Data Analysis, Excel, Machine Learning",Placed,Tech Mahindra,7.23,2025
+S0710,Student_710,Male,Civil,6.35,"C++, Machine Learning, Excel",Placed,Tech Mahindra,3.53,2023
+S0711,Student_711,Male,CSE,7.9,"SQL, Excel, Communication",Placed,Wipro,3.35,2024
+S0712,Student_712,Female,Mech,7.29,"SQL, Java, Python",Placed,Cognizant,8.62,2024
+S0713,Student_713,Female,IT,6.19,"Machine Learning, Power BI, Python",Placed,Deloitte,10.67,2024
+S0714,Student_714,Male,Mech,9.52,"Communication, Machine Learning, SQL",Not Placed,Not selected,0,2023
+S0715,Student_715,Male,IT,9.37,"Data Analysis, Python, Machine Learning",Placed,TCS,3.08,2025
+S0716,Student_716,Female,Mech,9.58,"Excel, C++, Power BI",Placed,Cognizant,6.79,2025
+S0717,Student_717,Male,CSE,6.39,"Communication, Power BI, Excel",Not Placed,Not selected,0,2025
+S0718,Student_718,Male,EEE,9.62,"Java, Machine Learning, Power BI",Not Placed,Not selected,0,2025
+S0719,Student_719,Male,Civil,8.42,"Excel, Machine Learning, C++",Placed,Tech Mahindra,7.67,2024
+S0720,Student_720,Female,EEE,8.17,"Excel, Data Analysis, Communication",Not Placed,Not selected,0,2024
+S0721,Student_721,Female,IT,8.17,"Python, C++, Java",Placed,Capgemini,3.23,2023
+S0722,Student_722,Male,Mech,9.22,"Data Analysis, C++, Power BI",Placed,Infosys,5.57,2023
+S0723,Student_723,Male,ECE,7.38,"Java, Excel, SQL",Not Placed,Not selected,0,2023
+S0724,Student_724,Male,CSE,8.71,"Machine Learning, Data Analysis, Power BI",Placed,Tech Mahindra,10.63,2023
+S0725,Student_725,Male,Civil,6.09,"Machine Learning, Communication, Java",Placed,Cognizant,3.93,2023
+S0726,Student_726,Male,EEE,7,"Communication, SQL, Python",Placed,Capgemini,3.48,2023
+S0727,Student_727,Male,CSE,8.96,"Power BI, C++, Machine Learning",Not Placed,Not selected,0,2025
+S0728,Student_728,Male,EEE,9.1,"C++, Machine Learning, Java",Placed,Wipro,11.04,2024
+S0729,Student_729,Male,CSE,6.83,"Data Analysis, Communication, Machine Learning",Not Placed,Not selected,0,2024
+S0730,Student_730,Male,Mech,8.68,"Data Analysis, Excel, Java",Placed,Infosys,3.17,2024
+S0731,Student_731,Female,Mech,5.99,"Power BI, Data Analysis, C++",Not Placed,Not selected,0,2024
+S0732,Student_732,Male,EEE,9.14,"Communication, C++, Machine Learning",Not Placed,Not selected,0,2024
+S0733,Student_733,Male,CSE,5.79,"Python, Data Analysis, Java",Not Placed,Not selected,0,2024
+S0734,Student_734,Male,IT,7.12,"Machine Learning, Communication, Excel",Placed,HCL,3.2,2025
+S0735,Student_735,Male,ECE,6.8,"Power BI, Data Analysis, Machine Learning",Placed,Capgemini,10.14,2023
+S0736,Student_736,Female,Mech,9.51,"Python, C++, SQL",Placed,Accenture,4.15,2023
+S0737,Student_737,Female,IT,9.66,"Machine Learning, Communication, Data Analysis",Not Placed,Not selected,0,2024
+S0738,Student_738,Female,IT,7.73,"Java, Communication, Python",Not Placed,Not selected,0,2023
+S0739,Student_739,Male,EEE,7.98,"Excel, Machine Learning, SQL",Placed,HCL,10.12,2023
+S0740,Student_740,Female,ECE,9.41,"SQL, Communication, C++",Not Placed,Not selected,0,2024
+S0741,Student_741,Male,ECE,7.79,"Communication, Excel, Data Analysis",Placed,IBM,9.64,2023
+S0742,Student_742,Female,CSE,5.72,"Data Analysis, Machine Learning, Power BI",Placed,IBM,11.51,2023
+S0743,Student_743,Female,EEE,7.64,"Excel, C++, Data Analysis",Placed,TCS,11.14,2025
+S0744,Student_744,Female,Civil,5.84,"Machine Learning, Excel, Data Analysis",Placed,Cognizant,5.55,2024
+S0745,Student_745,Male,Mech,7.43,"Java, Python, Communication",Placed,HCL,3.06,2023
+S0746,Student_746,Female,Civil,7.11,"Communication, Python, Excel",Not Placed,Not selected,0,2025
+S0747,Student_747,Female,Mech,9.24,"C++, Machine Learning, Excel",Not Placed,Not selected,0,2025
+S0748,Student_748,Female,CSE,9.76,"C++, Python, SQL",Placed,IBM,9.23,2023
+S0749,Student_749,Male,IT,6.19,"Power BI, C++, SQL",Placed,Wipro,5.92,2023
+S0750,Student_750,Female,EEE,7.88,"Java, Machine Learning, SQL",Placed,Wipro,4.84,2023
+S0751,Student_751,Female,ECE,6.69,"Java, Communication, SQL",Placed,Infosys,8.46,2023
+S0752,Student_752,Female,CSE,9.35,"SQL, Power BI, Data Analysis",Placed,Tech Mahindra,8.2,2024
+S0753,Student_753,Male,CSE,8.02,"Data Analysis, Communication, SQL",Placed,Accenture,10.37,2024
+S0754,Student_754,Female,CSE,8.14,"C++, Machine Learning, Data Analysis",Placed,Tech Mahindra,4.88,2023
+S0755,Student_755,Female,EEE,9.33,"Communication, Data Analysis, Power BI",Not Placed,Not selected,0,2024
+S0756,Student_756,Male,ECE,5.65,"Java, Data Analysis, C++",Placed,HCL,8.67,2025
+S0757,Student_757,Male,Mech,9.57,"Communication, Python, Power BI",Placed,HCL,7.69,2023
+S0758,Student_758,Female,ECE,7.22,"Python, Machine Learning, Excel",Placed,HCL,6.4,2023
+S0759,Student_759,Male,ECE,7.55,"Excel, Python, Communication",Placed,Deloitte,7.82,2025
+S0760,Student_760,Female,Civil,8.58,"Communication, Java, C++",Placed,IBM,7.93,2025
+S0761,Student_761,Male,CSE,8.16,"Communication, Python, SQL",Not Placed,Not selected,0,2024
+S0762,Student_762,Male,EEE,6.11,"Python, SQL, Power BI",Not Placed,Not selected,0,2025
+S0763,Student_763,Male,CSE,8.62,"Java, Communication, Machine Learning",Placed,TCS,3.86,2024
+S0764,Student_764,Female,ECE,6.03,"Java, Machine Learning, Data Analysis",Placed,TCS,3.3,2025
+S0765,Student_765,Female,Mech,6.15,"Machine Learning, Excel, Python",Not Placed,Not selected,0,2024
+S0766,Student_766,Female,ECE,5.77,"Python, SQL, Machine Learning",Placed,Accenture,7.93,2023
+S0767,Student_767,Female,Mech,7.92,"SQL, Java, Data Analysis",Not Placed,Not selected,0,2025
+S0768,Student_768,Male,Civil,8.18,"Python, Java, Excel",Not Placed,Not selected,0,2025
+S0769,Student_769,Male,Mech,5.87,"Data Analysis, SQL, C++",Placed,Infosys,6.87,2024
+S0770,Student_770,Male,EEE,5.81,"C++, Excel, SQL",Placed,Deloitte,3.37,2024
+S0771,Student_771,Male,Mech,7.25,"C++, Machine Learning, Excel",Not Placed,Not selected,0,2023
+S0772,Student_772,Female,EEE,5.92,"Excel, Communication, C++",Placed,Capgemini,6.23,2025
+S0773,Student_773,Male,IT,6.3,"Communication, Java, Power BI",Placed,Deloitte,3.1,2023
+S0774,Student_774,Male,Civil,6.12,"Excel, Machine Learning, Java",Placed,Deloitte,7.19,2025
+S0775,Student_775,Male,Civil,6.14,"Communication, Power BI, Java",Placed,Cognizant,7.75,2023
+S0776,Student_776,Male,EEE,7.25,"Machine Learning, Excel, Data Analysis",Placed,Capgemini,6.6,2024
+S0777,Student_777,Male,CSE,7.51,"SQL, Python, Data Analysis",Not Placed,Not selected,0,2024
+S0778,Student_778,Female,Civil,7.72,"Machine Learning, Communication, Data Analysis",Placed,TCS,11.98,2025
+S0779,Student_779,Female,Mech,8.79,"Machine Learning, SQL, Power BI",Not Placed,Not selected,0,2025
+S0780,Student_780,Female,Mech,8.21,"Python, Power BI, Communication",Not Placed,Not selected,0,2023
+S0781,Student_781,Female,Civil,8.33,"Machine Learning, C++, Communication",Placed,Cognizant,10.53,2024
+S0782,Student_782,Male,EEE,8.54,"Python, Machine Learning, Excel",Placed,Infosys,11.46,2024
+S0783,Student_783,Male,Civil,6.98,"Python, Machine Learning, Java",Placed,Wipro,8.99,2023
+S0784,Student_784,Male,IT,7.92,"Data Analysis, Java, C++",Not Placed,Not selected,0,2024
+S0785,Student_785,Male,ECE,7.82,"Excel, Power BI, Data Analysis",Not Placed,Not selected,0,2024
+S0786,Student_786,Male,EEE,9.73,"Machine Learning, Excel, Power BI",Not Placed,Not selected,0,2025
+S0787,Student_787,Male,IT,7.63,"Machine Learning, SQL, Power BI",Placed,Accenture,10.76,2025
+S0788,Student_788,Female,CSE,6.92,"Machine Learning, Python, Power BI",Not Placed,Not selected,0,2025
+S0789,Student_789,Male,Civil,9.75,"Power BI, SQL, Python",Not Placed,Not selected,0,2024
+S0790,Student_790,Male,Mech,5.51,"SQL, Data Analysis, Python",Placed,HCL,9.13,2024
+S0791,Student_791,Female,Civil,6.69,"Data Analysis, C++, Communication",Not Placed,Not selected,0,2025
+S0792,Student_792,Female,CSE,9.55,"Data Analysis, Communication, Python",Not Placed,Not selected,0,2023
+S0793,Student_793,Male,IT,6.37,"Power BI, Communication, Data Analysis",Not Placed,Not selected,0,2025
+S0794,Student_794,Female,Mech,6.98,"SQL, C++, Java",Placed,Deloitte,3.81,2024
+S0795,Student_795,Female,Civil,6.33,"Java, Python, Machine Learning",Placed,Wipro,3.43,2023
+S0796,Student_796,Male,Civil,7.17,"Power BI, Machine Learning, Excel",Placed,Cognizant,8.7,2024
+S0797,Student_797,Female,EEE,6.41,"Python, Data Analysis, SQL",Placed,HCL,11.39,2023
+S0798,Student_798,Male,CSE,8.38,"Excel, Power BI, C++",Placed,Capgemini,9.22,2025
+S0799,Student_799,Male,CSE,9.13,"C++, Power BI, Data Analysis",Placed,HCL,3.1,2023
+S0800,Student_800,Male,EEE,9.73,"Communication, Excel, Python",Not Placed,Not selected,0,2024
+S0801,Student_801,Male,EEE,6.81,"Machine Learning, Java, Data Analysis",Placed,IBM,3.48,2024
+S0802,Student_802,Male,Mech,6.24,"Excel, SQL, Python",Not Placed,Not selected,0,2025
+S0803,Student_803,Female,EEE,7.65,"Communication, Data Analysis, Excel",Not Placed,Not selected,0,2025
+S0804,Student_804,Female,CSE,6.98,"SQL, Communication, Machine Learning",Placed,Capgemini,3.37,2025
+S0805,Student_805,Female,ECE,7.54,"Power BI, Machine Learning, Python",Placed,Cognizant,11.23,2024
+S0806,Student_806,Male,IT,8.89,"Communication, C++, Java",Placed,IBM,10.63,2025
+S0807,Student_807,Male,IT,6.81,"Power BI, Excel, Machine Learning",Placed,Wipro,8.65,2023
+S0808,Student_808,Female,Civil,9.34,"Data Analysis, Python, Java",Placed,Cognizant,7.11,2024
+S0809,Student_809,Male,EEE,7.02,"Machine Learning, Excel, C++",Placed,Infosys,11.87,2025
+S0810,Student_810,Female,IT,7.26,"Power BI, Data Analysis, Communication",Placed,Infosys,6.9,2023
+S0811,Student_811,Female,IT,7.19,"Java, Power BI, Communication",Not Placed,Not selected,0,2025
+S0812,Student_812,Male,Mech,9.06,"SQL, C++, Excel",Placed,Wipro,11.38,2023
+S0813,Student_813,Male,Civil,9.16,"Machine Learning, C++, Data Analysis",Placed,Capgemini,4.58,2025
+S0814,Student_814,Male,Mech,5.99,"C++, Python, Excel",Placed,Tech Mahindra,3.43,2024
+S0815,Student_815,Male,Civil,5.98,"Excel, Power BI, Python",Placed,Infosys,10.51,2023
+S0816,Student_816,Male,IT,7.72,"C++, Java, SQL",Placed,HCL,6.17,2023
+S0817,Student_817,Male,Civil,8.71,"SQL, Machine Learning, Power BI",Placed,Infosys,6.46,2024
+S0818,Student_818,Female,CSE,8.32,"Machine Learning, Python, SQL",Placed,Infosys,4.74,2023
+S0819,Student_819,Female,EEE,5.85,"Machine Learning, Python, SQL",Placed,Capgemini,8.82,2023
+S0820,Student_820,Male,CSE,9.75,"C++, SQL, Excel",Placed,Accenture,8.36,2024
+S0821,Student_821,Male,EEE,9.11,"Excel, Data Analysis, Communication",Placed,HCL,10.93,2023
+S0822,Student_822,Male,IT,7.64,"Power BI, Python, Excel",Placed,Infosys,10.86,2025
+S0823,Student_823,Female,EEE,6.02,"SQL, Machine Learning, Python",Placed,TCS,3.26,2024
+S0824,Student_824,Female,Mech,5.67,"C++, Data Analysis, Machine Learning",Placed,Tech Mahindra,10.77,2023
+S0825,Student_825,Male,Civil,6.61,"Data Analysis, Communication, Python",Placed,TCS,5.88,2024
+S0826,Student_826,Male,Mech,5.71,"Machine Learning, C++, Java",Not Placed,Not selected,0,2025
+S0827,Student_827,Female,IT,5.66,"Java, SQL, Communication",Not Placed,Not selected,0,2023
+S0828,Student_828,Male,Civil,7.92,"Python, Excel, SQL",Placed,TCS,7.81,2025
+S0829,Student_829,Female,Civil,8.94,"C++, Python, Data Analysis",Not Placed,Not selected,0,2024
+S0830,Student_830,Female,Mech,8.24,"Communication, C++, Data Analysis",Placed,Deloitte,11.54,2023
+S0831,Student_831,Male,ECE,6.05,"Python, Power BI, Excel",Placed,Accenture,4.17,2024
+S0832,Student_832,Male,IT,7.88,"Communication, C++, Excel",Not Placed,Not selected,0,2023
+S0833,Student_833,Female,CSE,8.24,"Power BI, Python, SQL",Placed,TCS,5.74,2024
+S0834,Student_834,Female,ECE,8.36,"Java, Python, SQL",Placed,Wipro,10.9,2025
+S0835,Student_835,Male,EEE,6.72,"C++, Communication, SQL",Placed,Cognizant,7.79,2024
+S0836,Student_836,Male,Mech,6.64,"Power BI, Python, Excel",Not Placed,Not selected,0,2023
+S0837,Student_837,Male,EEE,6.39,"C++, Communication, Python",Placed,Cognizant,8.13,2025
+S0838,Student_838,Male,EEE,9.38,"Excel, Power BI, SQL",Not Placed,Not selected,0,2024
+S0839,Student_839,Female,IT,7.85,"SQL, Python, Excel",Placed,Cognizant,6.14,2025
+S0840,Student_840,Female,ECE,7.33,"Excel, Data Analysis, C++",Placed,IBM,3.89,2023
+S0841,Student_841,Female,CSE,8.65,"Java, Python, Excel",Placed,Cognizant,8.36,2023
+S0842,Student_842,Male,Civil,9.63,"Java, Data Analysis, Machine Learning",Not Placed,Not selected,0,2023
+S0843,Student_843,Female,Mech,8.73,"C++, Java, Power BI",Placed,TCS,9.68,2024
+S0844,Student_844,Female,IT,7.1,"SQL, Python, Excel",Not Placed,Not selected,0,2023
+S0845,Student_845,Male,ECE,9.06,"Java, Machine Learning, SQL",Not Placed,Not selected,0,2024
+S0846,Student_846,Male,EEE,5.76,"Java, Communication, SQL",Not Placed,Not selected,0,2024
+S0847,Student_847,Female,ECE,5.69,"Machine Learning, SQL, C++",Placed,Cognizant,9.77,2024
+S0848,Student_848,Female,IT,6.53,"Machine Learning, SQL, Communication",Placed,HCL,6.91,2023
+S0849,Student_849,Male,Mech,8.4,"Power BI, Data Analysis, Python",Placed,Deloitte,4.66,2023
+S0850,Student_850,Female,Mech,6.55,"Python, Communication, Data Analysis",Not Placed,Not selected,0,2024
+S0851,Student_851,Female,EEE,6.03,"Python, Communication, Power BI",Placed,HCL,8.91,2025
+S0852,Student_852,Female,ECE,6.51,"Communication, Python, Excel",Placed,Wipro,4.91,2024
+S0853,Student_853,Female,ECE,5.82,"C++, Machine Learning, Power BI",Not Placed,Not selected,0,2024
+S0854,Student_854,Female,EEE,7.12,"Power BI, C++, Python",Placed,Wipro,10.99,2025
+S0855,Student_855,Female,Mech,8.98,"Power BI, Excel, Communication",Placed,TCS,5.54,2025
+S0856,Student_856,Female,CSE,8.47,"C++, Machine Learning, SQL",Placed,Tech Mahindra,8.08,2025
+S0857,Student_857,Male,EEE,8.47,"Data Analysis, Excel, Python",Placed,Accenture,9.26,2023
+S0858,Student_858,Female,EEE,6.58,"Communication, Python, C++",Not Placed,Not selected,0,2025
+S0859,Student_859,Female,CSE,9.45,"C++, Machine Learning, Data Analysis",Not Placed,Not selected,0,2024
+S0860,Student_860,Male,CSE,5.5,"Data Analysis, Power BI, Excel",Placed,Cognizant,5.67,2024
+S0861,Student_861,Female,CSE,8.07,"C++, SQL, Communication",Not Placed,Not selected,0,2025
+S0862,Student_862,Male,Mech,5.66,"Python, Power BI, Data Analysis",Placed,Infosys,8.74,2023
+S0863,Student_863,Female,ECE,8.53,"Machine Learning, Python, Java",Not Placed,Not selected,0,2024
+S0864,Student_864,Female,EEE,9.21,"Machine Learning, Excel, Communication",Placed,IBM,4.22,2024
+S0865,Student_865,Male,Mech,8.19,"Communication, Java, Python",Placed,HCL,8.93,2024
+S0866,Student_866,Male,ECE,5.78,"Power BI, Machine Learning, Communication",Placed,IBM,6.16,2025
+S0867,Student_867,Male,Civil,7.25,"Excel, Machine Learning, Java",Placed,TCS,5.11,2025
+S0868,Student_868,Female,EEE,8.76,"C++, Python, Excel",Not Placed,Not selected,0,2023
+S0869,Student_869,Male,CSE,6.23,"Machine Learning, C++, Python",Placed,TCS,9.17,2025
+S0870,Student_870,Female,EEE,7.81,"Power BI, Java, Communication",Placed,IBM,3.28,2023
+S0871,Student_871,Female,Mech,7.44,"Python, Java, Machine Learning",Placed,Cognizant,10.39,2025
+S0872,Student_872,Female,Mech,9.25,"Machine Learning, Excel, Power BI",Not Placed,Not selected,0,2025
+S0873,Student_873,Female,Civil,8.12,"C++, Power BI, Python",Placed,Tech Mahindra,5.76,2024
+S0874,Student_874,Female,Civil,9.46,"Machine Learning, SQL, Data Analysis",Placed,Cognizant,3.4,2025
+S0875,Student_875,Male,IT,7.66,"Java, Machine Learning, SQL",Placed,Cognizant,9.6,2024
+S0876,Student_876,Male,ECE,7.92,"Machine Learning, Java, SQL",Placed,HCL,3.86,2024
+S0877,Student_877,Male,IT,6.23,"Power BI, Excel, Data Analysis",Placed,Deloitte,7.99,2023
+S0878,Student_878,Female,Mech,6.32,"C++, SQL, Data Analysis",Placed,TCS,5.38,2025
+S0879,Student_879,Male,Mech,6.92,"Java, Machine Learning, C++",Not Placed,Not selected,0,2023
+S0880,Student_880,Male,Mech,8.97,"Power BI, C++, Communication",Placed,Tech Mahindra,8.33,2024
+S0881,Student_881,Male,CSE,7.98,"Excel, SQL, Communication",Not Placed,Not selected,0,2023
+S0882,Student_882,Female,Mech,9.29,"Java, Data Analysis, SQL",Placed,Tech Mahindra,8.88,2024
+S0883,Student_883,Male,CSE,6.36,"C++, Python, Machine Learning",Placed,Tech Mahindra,11.75,2023
+S0884,Student_884,Male,IT,6.98,"Data Analysis, Power BI, Excel",Placed,Infosys,11.46,2025
+S0885,Student_885,Female,Civil,5.63,"Machine Learning, Java, Data Analysis",Placed,TCS,3.97,2023
+S0886,Student_886,Female,Civil,8.37,"Java, Machine Learning, C++",Placed,Cognizant,11.97,2023
+S0887,Student_887,Male,EEE,7.48,"SQL, Power BI, Python",Placed,TCS,7.47,2023
+S0888,Student_888,Male,CSE,5.98,"Excel, Data Analysis, Communication",Not Placed,Not selected,0,2024
+S0889,Student_889,Male,Civil,9.37,"Java, SQL, Machine Learning",Placed,Deloitte,4.55,2023
+S0890,Student_890,Male,Civil,8.35,"Python, SQL, Excel",Placed,TCS,11.73,2023
+S0891,Student_891,Male,Civil,9.72,"Java, Power BI, Data Analysis",Placed,Wipro,5.91,2025
+S0892,Student_892,Female,Civil,5.71,"Power BI, SQL, Communication",Not Placed,Not selected,0,2023
+S0893,Student_893,Male,Civil,7.78,"SQL, Power BI, Excel",Placed,Infosys,9.24,2024
+S0894,Student_894,Female,Civil,8,"Excel, Python, Data Analysis",Not Placed,Not selected,0,2024
+S0895,Student_895,Male,EEE,6.2,"Python, C++, Data Analysis",Placed,Capgemini,7.05,2025
+S0896,Student_896,Female,CSE,7.62,"Power BI, C++, Communication",Placed,Tech Mahindra,5.27,2025
+S0897,Student_897,Female,Civil,5.83,"Excel, Data Analysis, Power BI",Not Placed,Not selected,0,2025
+S0898,Student_898,Female,EEE,6.14,"Communication, Python, Machine Learning",Placed,HCL,9.65,2025
+S0899,Student_899,Male,IT,6.89,"Power BI, SQL, Communication",Placed,TCS,6.4,2025
+S0900,Student_900,Female,ECE,7.98,"Communication, Python, Excel",Placed,Accenture,3.94,2023
+S0901,Student_901,Female,EEE,6.16,"SQL, Excel, Java",Placed,Tech Mahindra,9.98,2025
+S0902,Student_902,Male,Civil,5.8,"Java, Excel, Data Analysis",Not Placed,Not selected,0,2024
+S0903,Student_903,Male,IT,6.11,"C++, Java, Python",Placed,HCL,8.08,2025
+S0904,Student_904,Male,CSE,7.99,"Excel, Machine Learning, Data Analysis",Not Placed,Not selected,0,2025
+S0905,Student_905,Male,Civil,7.8,"C++, Python, Machine Learning",Placed,Wipro,9.37,2025
+S0906,Student_906,Male,CSE,8.4,"Excel, Python, SQL",Not Placed,Not selected,0,2023
+S0907,Student_907,Female,Mech,8.91,"Python, Data Analysis, Excel",Placed,Capgemini,3.2,2023
+S0908,Student_908,Male,IT,6.52,"Python, Power BI, Data Analysis",Placed,HCL,9.46,2024
+S0909,Student_909,Male,IT,7.73,"Python, Communication, Java",Placed,Deloitte,3.63,2023
+S0910,Student_910,Male,ECE,7.71,"Java, SQL, Communication",Placed,Tech Mahindra,9.91,2025
+S0911,Student_911,Male,IT,7.06,"Java, C++, Excel",Placed,Accenture,6.34,2025
+S0912,Student_912,Male,ECE,7.1,"Power BI, SQL, Data Analysis",Placed,HCL,5.76,2025
+S0913,Student_913,Female,Civil,9.03,"Java, Excel, Python",Not Placed,Not selected,0,2023
+S0914,Student_914,Female,CSE,6.84,"Power BI, Data Analysis, Machine Learning",Not Placed,Not selected,0,2024
+S0915,Student_915,Male,Civil,8.86,"Communication, Python, Excel",Placed,Infosys,3.77,2024
+S0916,Student_916,Male,ECE,5.88,"Communication, SQL, Python",Not Placed,Not selected,0,2023
+S0917,Student_917,Female,ECE,6.8,"Python, SQL, Excel",Placed,IBM,5.02,2023
+S0918,Student_918,Male,Civil,9.4,"C++, Excel, SQL",Placed,Cognizant,10.44,2025
+S0919,Student_919,Male,ECE,7.92,"SQL, Excel, Machine Learning",Placed,IBM,6.32,2024
+S0920,Student_920,Female,IT,7.26,"Python, Communication, Data Analysis",Not Placed,Not selected,0,2025
+S0921,Student_921,Female,Mech,9.27,"SQL, Communication, Power BI",Placed,Capgemini,3.61,2025
+S0922,Student_922,Female,CSE,6.49,"SQL, Java, C++",Placed,IBM,4.25,2025
+S0923,Student_923,Male,CSE,6.38,"Power BI, C++, Communication",Not Placed,Not selected,0,2023
+S0924,Student_924,Female,IT,7.42,"C++, Communication, Data Analysis",Placed,Accenture,8.3,2025
+S0925,Student_925,Female,CSE,8.71,"Python, SQL, Excel",Not Placed,Not selected,0,2024
+S0926,Student_926,Male,CSE,6.79,"Power BI, SQL, Machine Learning",Placed,Infosys,8.86,2024
+S0927,Student_927,Male,ECE,9.53,"C++, SQL, Machine Learning",Not Placed,Not selected,0,2025
+S0928,Student_928,Male,Mech,9.18,"SQL, Java, Power BI",Not Placed,Not selected,0,2024
+S0929,Student_929,Male,Mech,6.28,"Power BI, Machine Learning, Java",Not Placed,Not selected,0,2024
+S0930,Student_930,Female,CSE,8.84,"Machine Learning, C++, Excel",Placed,Tech Mahindra,11.41,2023
+S0931,Student_931,Male,EEE,8.99,"C++, Java, Data Analysis",Placed,IBM,5.64,2025
+S0932,Student_932,Male,ECE,6.19,"SQL, Java, C++",Placed,Deloitte,5.41,2023
+S0933,Student_933,Male,Mech,6,"Power BI, Communication, SQL",Placed,Deloitte,6.43,2023
+S0934,Student_934,Female,EEE,6.56,"Data Analysis, SQL, Power BI",Placed,TCS,7.82,2024
+S0935,Student_935,Male,CSE,8.9,"Python, SQL, Java",Placed,HCL,11.71,2023
+S0936,Student_936,Male,IT,7.57,"SQL, Data Analysis, Machine Learning",Placed,IBM,5.92,2024
+S0937,Student_937,Female,Mech,8.24,"Python, SQL, Machine Learning",Placed,TCS,9.06,2025
+S0938,Student_938,Male,CSE,6.05,"SQL, Python, Power BI",Not Placed,Not selected,0,2023
+S0939,Student_939,Male,ECE,8.07,"Power BI, Data Analysis, Excel",Placed,Deloitte,4.11,2024
+S0940,Student_940,Male,Civil,8.57,"Java, Power BI, Data Analysis",Placed,Capgemini,9.64,2024
+S0941,Student_941,Female,EEE,6.84,"Data Analysis, C++, Communication",Placed,Accenture,5.77,2025
+S0942,Student_942,Female,IT,9.68,"SQL, Python, Machine Learning",Placed,TCS,8.66,2024
+S0943,Student_943,Male,Civil,6.53,"Communication, C++, Excel",Placed,Accenture,4.86,2025
+S0944,Student_944,Male,EEE,8.51,"SQL, Java, Machine Learning",Placed,Cognizant,9.71,2025
+S0945,Student_945,Female,ECE,7.98,"C++, Python, SQL",Not Placed,Not selected,0,2024
+S0946,Student_946,Female,EEE,9.03,"C++, Excel, Python",Placed,Capgemini,9.35,2025
+S0947,Student_947,Male,Mech,5.87,"Python, Java, Communication",Placed,Wipro,8.86,2024
+S0948,Student_948,Male,EEE,7.31,"C++, Communication, Excel",Not Placed,Not selected,0,2025
+S0949,Student_949,Male,CSE,9.45,"Power BI, Java, Data Analysis",Placed,HCL,3.52,2023
+S0950,Student_950,Female,CSE,6.87,"SQL, Data Analysis, Communication",Placed,HCL,3.36,2024
+S0951,Student_951,Female,Mech,5.56,"Python, Communication, Excel",Placed,HCL,7.58,2023
+S0952,Student_952,Male,Mech,5.72,"Excel, Data Analysis, SQL",Placed,Wipro,4.23,2025
+S0953,Student_953,Female,IT,5.85,"C++, Machine Learning, Java",Placed,IBM,7.17,2025
+S0954,Student_954,Female,Civil,6,"C++, Data Analysis, Communication",Not Placed,Not selected,0,2025
+S0955,Student_955,Female,Mech,8.16,"Excel, C++, Java",Placed,Wipro,11.49,2023
+S0956,Student_956,Female,ECE,7.23,"Excel, Communication, Power BI",Not Placed,Not selected,0,2024
+S0957,Student_957,Male,ECE,5.93,"Python, Excel, Communication",Placed,TCS,4.26,2025
+S0958,Student_958,Female,Civil,8.98,"Machine Learning, Communication, Java",Placed,Tech Mahindra,8.88,2023
+S0959,Student_959,Male,CSE,7.54,"Java, Machine Learning, Communication",Not Placed,Not selected,0,2024
+S0960,Student_960,Male,EEE,5.66,"Machine Learning, SQL, C++",Placed,Infosys,6.98,2023
+S0961,Student_961,Female,Mech,7.99,"Python, Excel, C++",Placed,Accenture,8.29,2024
+S0962,Student_962,Female,Mech,5.95,"Excel, Machine Learning, Power BI",Placed,Capgemini,11.26,2025
+S0963,Student_963,Male,EEE,5.94,"Java, Communication, Power BI",Placed,Capgemini,10.64,2023
+S0964,Student_964,Female,CSE,5.69,"C++, Python, Excel",Placed,Wipro,11,2024
+S0965,Student_965,Female,ECE,8.17,"SQL, Data Analysis, Power BI",Placed,Accenture,8.82,2023
+S0966,Student_966,Female,IT,7.56,"Machine Learning, C++, Data Analysis",Placed,Wipro,6.41,2024
+S0967,Student_967,Female,Civil,6.77,"Machine Learning, Java, SQL",Placed,Capgemini,4.02,2023
+S0968,Student_968,Female,CSE,7.62,"Power BI, C++, Machine Learning",Placed,Cognizant,3.02,2025
+S0969,Student_969,Female,IT,8.78,"Excel, Data Analysis, SQL",Placed,Infosys,9.11,2024
+S0970,Student_970,Female,CSE,6.03,"Power BI, Excel, SQL",Placed,Infosys,6.65,2025
+S0971,Student_971,Female,Civil,7.17,"Python, Communication, C++",Placed,IBM,3.82,2025
+S0972,Student_972,Female,Civil,9.56,"Data Analysis, Communication, Machine Learning",Not Placed,Not selected,0,2023
+S0973,Student_973,Female,CSE,6.07,"C++, SQL, Python",Not Placed,Not selected,0,2023
+S0974,Student_974,Male,ECE,7.03,"Python, SQL, Machine Learning",Placed,Cognizant,4.1,2025
+S0975,Student_975,Male,Mech,9.12,"Power BI, Java, C++",Placed,HCL,3.22,2025
+S0976,Student_976,Female,Mech,9.4,"Excel, Python, Power BI",Not Placed,Not selected,0,2023
+S0977,Student_977,Female,IT,7.67,"Communication, Data Analysis, Java",Placed,Infosys,4.58,2023
+S0978,Student_978,Female,IT,7.49,"Python, C++, Power BI",Placed,Tech Mahindra,7.09,2025
+S0979,Student_979,Female,IT,8.71,"Java, Python, Power BI",Placed,IBM,4.22,2025
+S0980,Student_980,Male,Civil,8.54,"C++, SQL, Data Analysis",Placed,IBM,4.61,2025
+S0981,Student_981,Female,EEE,7.94,"Java, Excel, SQL",Placed,Capgemini,6.17,2024
+S0982,Student_982,Female,EEE,9.08,"SQL, Excel, Data Analysis",Placed,Accenture,7.7,2025
+S0983,Student_983,Male,ECE,5.51,"Data Analysis, Excel, Java",Not Placed,Not selected,0,2025
+S0984,Student_984,Male,Civil,9.32,"Machine Learning, Communication, Data Analysis",Not Placed,Not selected,0,2023
+S0985,Student_985,Female,IT,5.64,"Power BI, Communication, Excel",Placed,Infosys,9.2,2025
+S0986,Student_986,Male,Mech,8.55,"Python, Communication, Excel",Not Placed,Not selected,0,2023
+S0987,Student_987,Female,EEE,6.34,"Excel, Machine Learning, Python",Not Placed,Not selected,0,2025
+S0988,Student_988,Male,Mech,9.62,"Data Analysis, Excel, C++",Placed,Deloitte,11.9,2025
+S0989,Student_989,Male,EEE,7.36,"Data Analysis, Communication, SQL",Placed,Cognizant,5.46,2025
+S0990,Student_990,Male,IT,9.48,"Python, Machine Learning, Power BI",Not Placed,Not selected,0,2025
+S0991,Student_991,Male,ECE,8.8,"Power BI, Excel, Python",Placed,TCS,7.21,2023
+S0992,Student_992,Female,EEE,9.09,"SQL, C++, Data Analysis",Placed,Wipro,8.88,2023
+S0993,Student_993,Male,EEE,5.95,"Java, Python, Communication",Placed,Cognizant,8.76,2025
+S0994,Student_994,Male,Mech,7.92,"SQL, Python, Data Analysis",Placed,Cognizant,6.99,2025
+S0995,Student_995,Male,CSE,6.75,"Java, Machine Learning, Data Analysis",Placed,Wipro,5.52,2023
+S0996,Student_996,Male,IT,6.08,"Machine Learning, Java, C++",Placed,Cognizant,7.96,2023
+S0997,Student_997,Male,ECE,8.09,"SQL, Java, Excel",Placed,Infosys,11.81,2024
+S0998,Student_998,Female,ECE,8.56,"Java, SQL, Power BI",Not Placed,Not selected,0,2023
+S0999,Student_999,Male,Civil,9.42,"Data Analysis, Communication, Machine Learning",Placed,IBM,9.55,2023
+S1000,Student_1000,Male,CSE,7.64,"Data Analysis, Java, C++",Placed,Tech Mahindra,10.86,2024
+S1001,Student_1001,Male,Civil,8.67,"Python, Machine Learning, Data Analysis",Not Placed,Not selected,0,2025
+S1002,Student_1002,Female,Mech,8.83,"Machine Learning, Java, SQL",Placed,Capgemini,8.83,2023
+S1003,Student_1003,Female,Civil,6.52,"Excel, Java, Data Analysis",Placed,Capgemini,9.88,2025
+S1004,Student_1004,Female,Civil,9.23,"Data Analysis, Machine Learning, Communication",Not Placed,Not selected,0,2023
+S1005,Student_1005,Male,Civil,8.09,"Java, C++, Communication",Placed,Cognizant,10.5,2024
+S1006,Student_1006,Female,CSE,7.62,"SQL, Communication, Java",Not Placed,Not selected,0,2024
+S1007,Student_1007,Male,Civil,5.67,"Data Analysis, C++, Java",Placed,Accenture,10.63,2023
+S1008,Student_1008,Male,CSE,6.54,"Communication, SQL, Machine Learning",Placed,TCS,6.63,2023
+S1009,Student_1009,Male,Mech,8.28,"Power BI, Communication, Data Analysis",Not Placed,Not selected,0,2025
+S1010,Student_1010,Male,EEE,9.11,"Power BI, C++, Java",Placed,HCL,7.23,2023
+S1011,Student_1011,Female,Mech,5.57,"Communication, Python, C++",Placed,Tech Mahindra,11.4,2024
+S1012,Student_1012,Female,Mech,7.97,"Machine Learning, Python, Power BI",Placed,Tech Mahindra,10.23,2023
+S1013,Student_1013,Female,ECE,6.79,"Excel, Data Analysis, SQL",Not Placed,Not selected,0,2023
+S1014,Student_1014,Male,EEE,8.46,"Machine Learning, Excel, SQL",Placed,Tech Mahindra,10.63,2024
+S1015,Student_1015,Female,EEE,5.76,"Power BI, Python, Excel",Placed,Infosys,9.55,2025
+S1016,Student_1016,Female,Civil,8.59,"Power BI, Data Analysis, C++",Not Placed,Not selected,0,2024
+S1017,Student_1017,Female,ECE,8.33,"SQL, C++, Java",Not Placed,Not selected,0,2025
+S1018,Student_1018,Female,ECE,6.19,"C++, Python, SQL",Not Placed,Not selected,0,2023
+S1019,Student_1019,Female,EEE,8.8,"SQL, Data Analysis, Python",Placed,Infosys,5.09,2024
+S1020,Student_1020,Male,EEE,9.06,"Python, Java, Power BI",Not Placed,Not selected,0,2023
+S1021,Student_1021,Male,EEE,7.07,"SQL, Power BI, Excel",Placed,Infosys,3.24,2025
+S1022,Student_1022,Female,Civil,5.82,"Data Analysis, Python, SQL",Placed,Accenture,5.82,2025
+S1023,Student_1023,Male,Civil,6.54,"Power BI, Java, Excel",Placed,Cognizant,9.35,2023
+S1024,Student_1024,Male,Civil,6.79,"Communication, Power BI, Data Analysis",Placed,Tech Mahindra,4,2025
+S1025,Student_1025,Male,IT,6.09,"Python, Communication, Power BI",Placed,HCL,9,2025
+S1026,Student_1026,Male,Mech,9.04,"Power BI, SQL, Python",Placed,Tech Mahindra,8.71,2024
+S1027,Student_1027,Female,Civil,7.23,"Java, Excel, Communication",Not Placed,Not selected,0,2025
+S1028,Student_1028,Male,Mech,7.91,"Communication, Java, Data Analysis",Placed,Tech Mahindra,6.36,2025
+S1029,Student_1029,Female,CSE,5.51,"Java, SQL, Excel",Placed,IBM,7.77,2024
+S1030,Student_1030,Male,Civil,6.3,"Java, Data Analysis, Python",Placed,Deloitte,9.48,2025
+S1031,Student_1031,Male,Civil,7.43,"SQL, Communication, C++",Placed,Infosys,4.76,2024
+S1032,Student_1032,Female,CSE,9.61,"Java, Python, Data Analysis",Placed,Deloitte,6.74,2025
+S1033,Student_1033,Male,IT,6.21,"Python, SQL, Java",Placed,Accenture,5.97,2023
+S1034,Student_1034,Female,Mech,7.35,"Python, Excel, Data Analysis",Placed,Wipro,6.93,2023
+S1035,Student_1035,Male,IT,5.87,"Java, SQL, C++",Not Placed,Not selected,0,2025
+S1036,Student_1036,Male,EEE,7.46,"Communication, SQL, Data Analysis",Not Placed,Not selected,0,2023
+S1037,Student_1037,Female,ECE,5.69,"SQL, Excel, Java",Placed,Infosys,10.29,2023
+S1038,Student_1038,Female,EEE,9.04,"Data Analysis, Machine Learning, Excel",Placed,Infosys,4.62,2024
+S1039,Student_1039,Male,IT,7.5,"Data Analysis, SQL, Communication",Placed,Infosys,9.09,2025
+S1040,Student_1040,Male,ECE,7.51,"Java, Machine Learning, Data Analysis",Not Placed,Not selected,0,2023
+S1041,Student_1041,Female,EEE,7.9,"SQL, Excel, Communication",Not Placed,Not selected,0,2024
+S1042,Student_1042,Female,Mech,7.47,"Python, SQL, Excel",Placed,Deloitte,7.78,2025
+S1043,Student_1043,Female,ECE,8.86,"Machine Learning, C++, Power BI",Placed,Accenture,11.08,2023
+S1044,Student_1044,Male,Mech,9.4,"SQL, Python, Power BI",Not Placed,Not selected,0,2024
+S1045,Student_1045,Female,Civil,9.22,"SQL, Communication, Python",Placed,Tech Mahindra,7.29,2024
+S1046,Student_1046,Female,IT,5.62,"SQL, Java, Data Analysis",Not Placed,Not selected,0,2025
+S1047,Student_1047,Male,CSE,8.78,"Data Analysis, C++, Machine Learning",Placed,Deloitte,9.73,2025
+S1048,Student_1048,Female,EEE,7.2,"Excel, SQL, Power BI",Placed,Tech Mahindra,3.31,2025
+S1049,Student_1049,Female,CSE,8.39,"Java, C++, Machine Learning",Placed,IBM,10.62,2024
+S1050,Student_1050,Female,Mech,8.18,"Excel, C++, Machine Learning",Not Placed,Not selected,0,2025
+S1051,Student_1051,Female,EEE,8.64,"Data Analysis, Excel, Machine Learning",Not Placed,Not selected,0,2024
+S1052,Student_1052,Male,ECE,9.28,"Power BI, Data Analysis, SQL",Placed,TCS,8.19,2023
+S1053,Student_1053,Male,Civil,6.6,"Communication, Python, Data Analysis",Placed,Tech Mahindra,5.41,2025
+S1054,Student_1054,Female,EEE,8.61,"Machine Learning, Data Analysis, SQL",Not Placed,Not selected,0,2023
+S1055,Student_1055,Female,IT,7.14,"Power BI, C++, Communication",Placed,HCL,3.89,2025
+S1056,Student_1056,Male,Civil,9.15,"Excel, Power BI, Java",Placed,Infosys,11.16,2024
+S1057,Student_1057,Male,EEE,6.58,"Machine Learning, Java, SQL",Not Placed,Not selected,0,2023
+S1058,Student_1058,Female,Civil,8.59,"C++, SQL, Excel",Placed,Wipro,5.51,2023
+S1059,Student_1059,Female,CSE,9.04,"SQL, Java, Machine Learning",Placed,Accenture,5.15,2023
+S1060,Student_1060,Male,Mech,5.57,"Excel, Communication, Python",Placed,Capgemini,11.64,2024
+S1061,Student_1061,Male,IT,7.06,"SQL, Communication, Machine Learning",Not Placed,Not selected,0,2024
+S1062,Student_1062,Female,Mech,6.81,"Machine Learning, SQL, Power BI",Placed,Accenture,7.88,2024
+S1063,Student_1063,Female,Mech,9.3,"SQL, Excel, Communication",Placed,Wipro,8.51,2024
+S1064,Student_1064,Male,ECE,8.48,"Python, Power BI, Java",Placed,Tech Mahindra,6.5,2023
+S1065,Student_1065,Female,ECE,9.65,"Excel, Power BI, SQL",Placed,Cognizant,3.31,2024
+S1066,Student_1066,Male,Mech,9.18,"Java, C++, Communication",Placed,Cognizant,9.62,2025
+S1067,Student_1067,Male,ECE,7.37,"Python, Communication, Java",Placed,Capgemini,10.87,2024
+S1068,Student_1068,Male,IT,5.74,"Excel, C++, Communication",Not Placed,Not selected,0,2023
+S1069,Student_1069,Male,Mech,6.61,"Data Analysis, Java, Excel",Placed,Wipro,4.11,2024
+S1070,Student_1070,Female,IT,9.77,"Communication, Power BI, Machine Learning",Not Placed,Not selected,0,2024
+S1071,Student_1071,Female,EEE,6.58,"Data Analysis, Java, Machine Learning",Placed,Cognizant,7.34,2025
+S1072,Student_1072,Female,CSE,8.25,"SQL, Communication, Power BI",Not Placed,Not selected,0,2025
+S1073,Student_1073,Male,ECE,7.64,"Power BI, SQL, Machine Learning",Placed,Wipro,9.31,2025
+S1074,Student_1074,Male,ECE,9.07,"Machine Learning, Data Analysis, Power BI",Placed,HCL,11.33,2023
+S1075,Student_1075,Female,EEE,9.16,"Communication, Machine Learning, Excel",Placed,Tech Mahindra,3.98,2024
+S1076,Student_1076,Female,CSE,7.4,"C++, Power BI, Machine Learning",Placed,Tech Mahindra,6.36,2025
+S1077,Student_1077,Female,ECE,5.77,"Communication, Machine Learning, Data Analysis",Not Placed,Not selected,0,2023
+S1078,Student_1078,Male,Civil,9.05,"Python, C++, Communication",Not Placed,Not selected,0,2025
+S1079,Student_1079,Female,CSE,8.82,"Communication, Data Analysis, Machine Learning",Not Placed,Not selected,0,2025
+S1080,Student_1080,Male,Mech,6.13,"Java, Python, C++",Placed,Infosys,5.9,2025
+S1081,Student_1081,Male,ECE,8.08,"Machine Learning, Communication, C++",Placed,TCS,3.16,2024
+S1082,Student_1082,Female,Mech,5.68,"Data Analysis, Excel, Power BI",Placed,HCL,3.59,2024
+S1083,Student_1083,Female,Civil,9.29,"Machine Learning, Java, SQL",Placed,Infosys,8.59,2025
+S1084,Student_1084,Male,CSE,8.73,"Data Analysis, Java, SQL",Placed,Infosys,10.58,2024
+S1085,Student_1085,Male,IT,9.79,"Machine Learning, Java, Communication",Placed,Cognizant,10.63,2023
+S1086,Student_1086,Male,IT,5.52,"Python, Communication, Machine Learning",Placed,Wipro,3.55,2025
+S1087,Student_1087,Male,Mech,6.51,"Power BI, SQL, Machine Learning",Placed,Accenture,4.82,2024
+S1088,Student_1088,Female,IT,9.1,"Communication, SQL, Power BI",Not Placed,Not selected,0,2025
+S1089,Student_1089,Male,IT,6.1,"Data Analysis, SQL, Communication",Placed,HCL,6.41,2023
+S1090,Student_1090,Female,ECE,6.42,"Power BI, Data Analysis, Machine Learning",Not Placed,Not selected,0,2024
+S1091,Student_1091,Female,IT,9.63,"Java, Machine Learning, Python",Placed,Infosys,9.36,2025
+S1092,Student_1092,Male,Mech,6.46,"C++, Excel, Communication",Placed,Capgemini,6.39,2024
+S1093,Student_1093,Female,Mech,8.18,"Communication, Data Analysis, Power BI",Placed,IBM,11.41,2023
+S1094,Student_1094,Female,Civil,6.4,"Excel, C++, Machine Learning",Not Placed,Not selected,0,2025
+S1095,Student_1095,Female,Mech,9.09,"SQL, Power BI, Python",Placed,TCS,3.45,2025
+S1096,Student_1096,Female,Civil,7.91,"Python, Java, Communication",Placed,Infosys,3.89,2024
+S1097,Student_1097,Female,ECE,5.96,"Communication, Machine Learning, SQL",Placed,Deloitte,8.67,2025
+S1098,Student_1098,Male,IT,6.93,"Communication, SQL, Data Analysis",Placed,IBM,5.79,2023
+S1099,Student_1099,Female,CSE,9.01,"Communication, Data Analysis, Excel",Placed,TCS,9.69,2024
+S1100,Student_1100,Female,EEE,8.64,"Python, Machine Learning, Data Analysis",Placed,IBM,7.23,2025
+S1101,Student_1101,Male,Mech,9.43,"Machine Learning, C++, Excel",Placed,Accenture,3.51,2024
+S1102,Student_1102,Male,CSE,9.01,"C++, Power BI, Python",Placed,Cognizant,6.92,2024
+S1103,Student_1103,Male,Civil,9.79,"Data Analysis, SQL, Power BI",Placed,Cognizant,8.33,2023
+S1104,Student_1104,Male,CSE,9.59,"Java, Power BI, C++",Not Placed,Not selected,0,2024
+S1105,Student_1105,Female,Mech,7.28,"Machine Learning, Communication, Excel",Placed,Tech Mahindra,8.1,2023
+S1106,Student_1106,Male,EEE,6.26,"Data Analysis, Machine Learning, SQL",Not Placed,Not selected,0,2025
+S1107,Student_1107,Male,Civil,7.42,"Power BI, Data Analysis, Machine Learning",Not Placed,Not selected,0,2025
+S1108,Student_1108,Female,IT,7.46,"Java, Machine Learning, Power BI",Placed,TCS,7.91,2024
+S1109,Student_1109,Female,Civil,6.9,"Excel, C++, Communication",Placed,Wipro,4.42,2025
+S1110,Student_1110,Male,EEE,6.97,"Data Analysis, Power BI, Excel",Placed,Accenture,7.87,2023
+S1111,Student_1111,Female,EEE,7.76,"Power BI, Data Analysis, Python",Placed,Wipro,10.41,2024
+S1112,Student_1112,Female,EEE,6.62,"Power BI, Machine Learning, C++",Placed,TCS,8.08,2023
+S1113,Student_1113,Female,EEE,8.18,"Python, SQL, C++",Not Placed,Not selected,0,2025
+S1114,Student_1114,Male,Mech,7.19,"C++, Data Analysis, Power BI",Placed,Tech Mahindra,10.8,2024
+S1115,Student_1115,Female,Mech,9.19,"Java, Data Analysis, Excel",Placed,Tech Mahindra,10.61,2024
+S1116,Student_1116,Male,Civil,9,"SQL, Machine Learning, Power BI",Placed,Capgemini,8.65,2023
+S1117,Student_1117,Male,CSE,6.38,"Power BI, C++, Excel",Placed,Tech Mahindra,4.28,2024
+S1118,Student_1118,Male,IT,6.79,"Power BI, C++, Python",Not Placed,Not selected,0,2024
+S1119,Student_1119,Male,ECE,7.94,"Power BI, SQL, Machine Learning",Placed,Infosys,11.02,2025
+S1120,Student_1120,Male,IT,5.9,"SQL, Excel, C++",Placed,Capgemini,11.72,2025
+S1121,Student_1121,Male,EEE,8.92,"SQL, Excel, Python",Placed,HCL,9.14,2024
+S1122,Student_1122,Male,Mech,8.86,"Data Analysis, Power BI, Excel",Placed,Tech Mahindra,7.51,2023
+S1123,Student_1123,Female,Civil,5.62,"Data Analysis, Excel, SQL",Placed,Deloitte,5.2,2025
+S1124,Student_1124,Male,IT,9.78,"Machine Learning, Data Analysis, Power BI",Placed,Accenture,4.04,2023
+S1125,Student_1125,Male,IT,7.89,"C++, Data Analysis, SQL",Placed,Capgemini,4.45,2023
+S1126,Student_1126,Male,CSE,9.36,"Communication, Excel, Power BI",Placed,Cognizant,10.44,2023
+S1127,Student_1127,Male,Civil,6.42,"Communication, Power BI, SQL",Placed,Deloitte,6.73,2024
+S1128,Student_1128,Female,EEE,8.03,"Power BI, Communication, Excel",Placed,Infosys,10.6,2025
+S1129,Student_1129,Male,IT,9.28,"Communication, C++, Machine Learning",Not Placed,Not selected,0,2023
+S1130,Student_1130,Male,EEE,7.9,"C++, Machine Learning, Java",Placed,Deloitte,11.44,2025
+S1131,Student_1131,Female,CSE,5.88,"Python, Machine Learning, Excel",Not Placed,Not selected,0,2023
+S1132,Student_1132,Female,EEE,8.35,"Excel, Java, Machine Learning",Placed,Cognizant,3.03,2025
+S1133,Student_1133,Male,EEE,7.09,"Excel, Machine Learning, C++",Not Placed,Not selected,0,2023
+S1134,Student_1134,Male,IT,6.58,"Python, Java, Excel",Not Placed,Not selected,0,2023
+S1135,Student_1135,Male,CSE,7.75,"Data Analysis, Communication, SQL",Not Placed,Not selected,0,2023
+S1136,Student_1136,Male,EEE,6.65,"C++, Communication, Machine Learning",Placed,HCL,6.37,2024
+S1137,Student_1137,Female,IT,6.84,"Excel, Machine Learning, Java",Not Placed,Not selected,0,2023
+S1138,Student_1138,Female,Mech,5.94,"Machine Learning, C++, SQL",Placed,Deloitte,3.37,2023
+S1139,Student_1139,Female,Civil,7.26,"Power BI, C++, Machine Learning",Not Placed,Not selected,0,2023
+S1140,Student_1140,Male,ECE,6.12,"Power BI, SQL, Excel",Placed,Deloitte,7.2,2024
+S1141,Student_1141,Male,ECE,5.67,"Python, Power BI, C++",Not Placed,Not selected,0,2025
+S1142,Student_1142,Male,Civil,7.97,"Communication, Power BI, Machine Learning",Placed,Tech Mahindra,4.18,2024
+S1143,Student_1143,Male,CSE,6.04,"SQL, Excel, Machine Learning",Placed,Accenture,5.16,2024
+S1144,Student_1144,Male,IT,7.86,"C++, Data Analysis, Machine Learning",Placed,Infosys,11.38,2024
+S1145,Student_1145,Female,EEE,7.84,"Data Analysis, SQL, Excel",Placed,Cognizant,8.87,2025
+S1146,Student_1146,Male,CSE,7.39,"SQL, Data Analysis, Machine Learning",Not Placed,Not selected,0,2024
+S1147,Student_1147,Female,Civil,8.83,"Power BI, Communication, Java",Not Placed,Not selected,0,2024
+S1148,Student_1148,Male,ECE,8.82,"Communication, Java, Machine Learning",Placed,Wipro,7.64,2025
+S1149,Student_1149,Male,Civil,8.91,"Communication, Power BI, Excel",Not Placed,Not selected,0,2025
+S1150,Student_1150,Male,CSE,7.8,"Excel, SQL, C++",Placed,Deloitte,10.06,2023
+S1151,Student_1151,Male,Civil,5.83,"C++, Java, Excel",Placed,Capgemini,4.34,2025
+S1152,Student_1152,Male,CSE,9.76,"Machine Learning, Excel, Python",Placed,TCS,7.42,2025
+S1153,Student_1153,Female,ECE,7.58,"Java, Data Analysis, SQL",Placed,Accenture,5.48,2025
+S1154,Student_1154,Male,Civil,9.73,"Communication, Data Analysis, SQL",Not Placed,Not selected,0,2023
+S1155,Student_1155,Female,IT,7.04,"Communication, Java, Data Analysis",Placed,Infosys,9.08,2025
+S1156,Student_1156,Male,Civil,9.31,"Communication, Python, Machine Learning",Placed,Tech Mahindra,11.61,2024
+S1157,Student_1157,Male,EEE,8.83,"Power BI, Python, Machine Learning",Not Placed,Not selected,0,2025
+S1158,Student_1158,Male,Civil,6.01,"Python, C++, Excel",Not Placed,Not selected,0,2024
+S1159,Student_1159,Male,IT,8.72,"Machine Learning, Python, Excel",Placed,TCS,6.84,2025
+S1160,Student_1160,Male,EEE,6.51,"Power BI, Python, Excel",Placed,TCS,11.09,2023
+S1161,Student_1161,Male,ECE,6.66,"Java, Python, SQL",Placed,IBM,5.7,2025
+S1162,Student_1162,Female,EEE,5.98,"Machine Learning, Power BI, C++",Placed,Infosys,4.49,2025
+S1163,Student_1163,Male,Mech,8.7,"Excel, SQL, Java",Not Placed,Not selected,0,2024
+S1164,Student_1164,Female,CSE,8.02,"SQL, Communication, Excel",Placed,TCS,8.52,2024
+S1165,Student_1165,Male,ECE,7.93,"Data Analysis, Excel, C++",Placed,Capgemini,11.22,2024
+S1166,Student_1166,Male,CSE,7.79,"Communication, Java, SQL",Not Placed,Not selected,0,2023
+S1167,Student_1167,Male,Mech,6.06,"Data Analysis, Java, Excel",Not Placed,Not selected,0,2024
+S1168,Student_1168,Male,Mech,6.09,"Machine Learning, C++, SQL",Not Placed,Not selected,0,2024
+S1169,Student_1169,Female,ECE,8.87,"Data Analysis, Power BI, Java",Placed,Infosys,3.41,2025
+S1170,Student_1170,Male,Mech,5.69,"Java, Data Analysis, Excel",Placed,TCS,8.37,2023
+S1171,Student_1171,Female,ECE,7.88,"Java, Data Analysis, Python",Placed,Accenture,3.8,2024
+S1172,Student_1172,Male,EEE,7.39,"Excel, Data Analysis, Java",Not Placed,Not selected,0,2024
+S1173,Student_1173,Female,Civil,9.79,"SQL, Power BI, Excel",Placed,Wipro,8.55,2023
+S1174,Student_1174,Male,Mech,6.15,"Excel, Communication, C++",Placed,Cognizant,10.71,2025
+S1175,Student_1175,Male,ECE,8.86,"SQL, Communication, Excel",Not Placed,Not selected,0,2025
+S1176,Student_1176,Male,EEE,8.84,"SQL, Communication, Power BI",Placed,TCS,5.75,2023
+S1177,Student_1177,Male,ECE,7.66,"Machine Learning, Data Analysis, SQL",Placed,Infosys,11.83,2023
+S1178,Student_1178,Female,EEE,6.88,"Communication, Machine Learning, C++",Placed,Capgemini,11.93,2024
+S1179,Student_1179,Female,ECE,6.18,"Java, Machine Learning, SQL",Placed,Capgemini,9.21,2023
+S1180,Student_1180,Male,Civil,8.6,"SQL, Python, Excel",Not Placed,Not selected,0,2025
+S1181,Student_1181,Male,ECE,9.13,"Java, Excel, Communication",Placed,Wipro,5.8,2023
+S1182,Student_1182,Male,IT,7.37,"Data Analysis, Power BI, Machine Learning",Not Placed,Not selected,0,2024
+S1183,Student_1183,Male,Mech,9.08,"Excel, Communication, Python",Placed,Capgemini,9.53,2025
+S1184,Student_1184,Female,Civil,9.69,"Machine Learning, Java, Python",Placed,Infosys,3.75,2025
+S1185,Student_1185,Female,ECE,8.57,"Power BI, Python, C++",Placed,Capgemini,3.79,2023
+S1186,Student_1186,Male,EEE,8.53,"Python, SQL, Power BI",Placed,HCL,11.09,2024
+S1187,Student_1187,Female,IT,7.09,"Excel, Communication, Data Analysis",Placed,TCS,6.9,2025
+S1188,Student_1188,Female,Civil,9.18,"Excel, Data Analysis, Python",Placed,Wipro,7.35,2024
+S1189,Student_1189,Male,Civil,7.9,"Machine Learning, Java, Communication",Not Placed,Not selected,0,2023
+S1190,Student_1190,Female,ECE,8.72,"Java, Power BI, Data Analysis",Not Placed,Not selected,0,2024
+S1191,Student_1191,Female,CSE,5.82,"Machine Learning, C++, Data Analysis",Placed,Accenture,6.61,2023
+S1192,Student_1192,Male,Mech,5.96,"C++, Excel, Communication",Not Placed,Not selected,0,2024
+S1193,Student_1193,Male,Civil,6.24,"SQL, Machine Learning, C++",Placed,Accenture,7.46,2024
+S1194,Student_1194,Male,ECE,7.79,"SQL, Power BI, Data Analysis",Placed,Infosys,4.05,2025
+S1195,Student_1195,Female,IT,7.55,"Power BI, Communication, Machine Learning",Placed,Accenture,8.87,2025
+S1196,Student_1196,Male,CSE,7.91,"C++, Machine Learning, Java",Placed,TCS,8.23,2023
+S1197,Student_1197,Female,EEE,9.13,"Python, Excel, Machine Learning",Placed,Accenture,3.73,2025
+S1198,Student_1198,Male,Civil,5.59,"Data Analysis, Communication, Excel",Not Placed,Not selected,0,2025
+S1199,Student_1199,Male,ECE,9.66,"Communication, SQL, Python",Placed,TCS,4.65,2024
+S1200,Student_1200,Female,Mech,7.83,"Excel, C++, Python",Placed,Capgemini,4.91,2025
