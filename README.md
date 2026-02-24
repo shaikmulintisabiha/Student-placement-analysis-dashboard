@@ -63,37 +63,57 @@ Top Hiring Companies
 📊 Dashboard Features
 
 🔹 Branch-wise Placement Analysis
+
 Compare placement performance across different branches.
 
 🔹 Package Distribution Analysis
+
 Visualize highest, average, and total salary packages offered.
+
 🔹 Gender-wise Placement Comparison
+
 Analyze placement percentage by gender.
+
 🔹 Company Hiring Trends
+
 Identify companies hiring the most students.
 
 🛠 Tools & Technologies Used
 
 Microsoft Power BI
+
 DAX (CALCULATE, COUNT, DIVIDE, AVERAGE)
+
 Data Modeling
+
 Data Visualization
+
 Microsoft Excel (Data Preparation)
+
 GitHub (Project Documentation)
 
 🎯 Business Insights Generated
 
 Identified branches with highest placement rate
+
 Found companies offering highest packages
+
 Evaluated overall placement percentage
+
 Compared gender-wise placement performance
 
 🚀 Project Outcome
 
 This project demonstrates foundational capabilities in:
+
 ✔ Data Analysis
+
 ✔ Business Intelligence
+
 ✔ KPI Creation
+
 ✔ Dashboard Development
+
 ✔ Insight Generation
+
 The dashboard can help educational institutions track placement performance and improve training strategies.
